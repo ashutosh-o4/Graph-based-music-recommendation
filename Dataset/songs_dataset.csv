@@ -1,0 +1,1001 @@
+song_id,title,artist,language,genre,release_year,mood,tempo,popularity
+S001,Kamariya - Live,Darshan Raval,Hindi,Dance,2020,Energetic,148,0.7717071434579015
+S002,High Hopes ft. New Artist,Panic! At The Disco,English,Pop,2018,Energetic,124,0.9577858483270629
+S003,Watermelon Sugar - Live,Harry Styles,English,Pop rock,2022,Energetic,137,0.750914758798225
+S004,Gerua,Arijit Singh,Hindi,Romantic,2017,Neutral,89,0.5733963251997527
+S005,Tujhe Kitna Chahne Lage,Arijit Singh,Hindi,Romantic,2017,Neutral,148,0.8517651715362152
+S006,Circles,Post Malone,English,Pop,2018,Energetic,118,0.7234788555912444
+S007,Don't Start Now (Radio Edit),Dua Lipa,English,Disco-Pop,2022,Energetic,139,0.5052410342895497
+S008,Bohemian Rhapsody - Acoustic,Queen,English,Rock,2016,Neutral,142,0.8212383170272254
+S009,Apna Time Aayega - Live,Ranveer Singh,Hindi,Hip-Hop,2017,Neutral,93,0.6271351747066244
+S010,Apna Time Aayega,Ranveer Singh,Hindi,Hip-Hop,2019,Neutral,147,0.5339550344039943
+S011,Prem Ratan Dhan Payo (Cover),Palak Muchhal,Hindi,DanceRomantic,2017,Energetic,146,0.5761272614273947
+S012,Prem Ratan Dhan Payo - Live,Palak Muchhal,Hindi,DanceRomantic,2017,Energetic,88,0.838072963460414
+S013,Lucid Dreams,Juice WRLD,English,Hip-Hop,2018,Neutral,134,0.6764455969371693
+S014,Duniyaa 2.0,"Akhil, Dhvani Bhanushali",Hindi,Romantic,2017,Neutral,146,0.7514390115748532
+S015,Tum Hi Ho (Remix),Arijit Singh,Hindi,Romantic,2014,Neutral,134,0.6312094521581095
+S016,Ghar More Pardesiya (Reprise),Shreya Ghoshal,Hindi,Classical,2022,Neutral,149,0.6690592001320316
+S017,Lagdi Lahore Di (Remix),Guru Randhawa,Hindi,Dance,2018,Energetic,64,0.5925750092359077
+S018,Nain Na Jodeen (Reprise),Arijit Singh,Hindi,Romantic,2020,Neutral,107,0.879926390465875
+S019,Kudiye Ni,Aparshakti Khurana,Hindi,Dance,2020,Energetic,91,0.6748525111375842
+S020,Closer ft. New Artist,The Chainsmokers ft. Halsey,English,Pop,2014,Energetic,89,0.8066108872997851
+S021,Uptown Funk,Mark Ronson ft. Bruno Mars,English,Funk,2016,Neutral,107,0.5472774025775249
+S022,Channa Mereya (Cover),Arijit Singh,Hindi,Sad,2014,Melancholy,128,0.8739248130567698
+S023,Dance Monkey,Tones and I,English,Dance-pop,2022,Energetic,86,0.5396809865242576
+S024,Bohemian Rhapsody (Extended),Queen,English,Rock,2018,Neutral,133,0.9490039811459848
+S025,Shallow,Lady Gaga & Bradley Cooper,English,Country-Rock,2020,Neutral,81,0.739052636284902
+S026,Señorita ft. New Artist,Shawn Mendes & Camila Cabello,English,Pop,2019,Energetic,104,0.7354607924314683
+S027,Dance Monkey,Tones and I,English,Dance-pop,2020,Energetic,134,0.6639586874212182
+S028,Kar Gayi Chull,"Badshah, Fazilpuria",Hindi,Dance,2017,Energetic,142,0.7012910038117157
+S029,Vaaste,Dhvani Bhanushali,Hindi,Romantic,2018,Neutral,123,0.6214818778123457
+S030,Nashe Si Chadh Gayi (Reprise),Arijit Singh,Hindi,Dance,2017,Energetic,102,0.8366087504677923
+S031,One Dance,Drake ft. Wizkid & Kyla,English,Dancehall,2016,Energetic,91,0.5705769833185179
+S032,Leja Re (Reprise),Dhvani Bhanushali,Hindi,Romantic,2017,Neutral,141,0.7693077509028161
+S033,Leja Re 2.0,Dhvani Bhanushali,Hindi,Romantic,2018,Neutral,80,0.6445278112868837
+S034,Gerua - Unplugged,Arijit Singh,Hindi,Romantic,2013,Neutral,103,0.5903893104639952
+S035,Gerua (Reprise),Arijit Singh,Hindi,Romantic,2013,Neutral,64,0.6244879773541427
+S036,Hello (Radio Edit),Adele,English,Soul,2015,Neutral,104,0.9761750509599401
+S037,Bohemian Rhapsody,Queen,English,Rock,2021,Neutral,103,0.9116209907422793
+S038,Someone You Loved - Live,Lewis Capaldi,English,Pop,2017,Energetic,138,0.777264844369469
+S039,Kar Gayi Chull,"Badshah, Fazilpuria",Hindi,Dance,2018,Energetic,118,0.8695545733451633
+S040,Despacito - Acoustic,Luis Fonsi ft. Daddy Yankee,English,Reggaeton,2020,Neutral,62,0.7207856825562227
+S041,Señorita,Shawn Mendes & Camila Cabello,English,Pop,2022,Energetic,124,0.946469259361048
+S042,Agar Tum Saath Ho (Cover),"Alka Yagnik, Arijit Singh",Hindi,Sad,2017,Melancholy,60,0.8130719112354406
+S043,Bekhayali (Remix),Sachet Tandon,Hindi,Sad,2019,Melancholy,101,0.9458965011715048
+S044,Perfect - Live,Ed Sheeran,English,Pop,2016,Energetic,123,0.7343766116481525
+S045,Memories - Live,Maroon 5,English,Pop,2020,Energetic,88,0.8480895905506667
+S046,Kudiye Ni,Aparshakti Khurana,Hindi,Dance,2018,Energetic,66,0.6006430917323851
+S047,Don't Start Now (Remix),Dua Lipa,English,Disco-Pop,2021,Energetic,104,0.7305450614404969
+S048,Watermelon Sugar (Remix),Harry Styles,English,Pop rock,2018,Energetic,148,0.9095609507700009
+S049,Ghungroo (Cover),"Arijit Singh, Shilpa Rao",Hindi,Dance,2021,Energetic,134,0.7365830207921384
+S050,O Saathi (Remix),Atif Aslam,Hindi,Romantic,2020,Neutral,108,0.917355170281642
+S051,havana - Live,Camila Cabello ft. Young Thug,English,Pop,2017,Energetic,123,0.960002131613082
+S052,Duniyaa,"Akhil, Dhvani Bhanushali",Hindi,Romantic,2020,Neutral,143,0.554849507454495
+S053,Duniyaa - Live,"Akhil, Dhvani Bhanushali",Hindi,Romantic,2021,Neutral,120,0.528757134501673
+S054,Perfect ft. New Artist,Ed Sheeran,English,Pop,2015,Energetic,67,0.5071776324117275
+S055,Hello,Adele,English,Soul,2016,Neutral,143,0.6946709096286133
+S056,7 Rings,Ariana Grande,English,Pop,2019,Energetic,66,0.8508388698175665
+S057,Tujhe Kitna Chahne Lage,Arijit Singh,Hindi,Romantic,2019,Neutral,102,0.9542835348391057
+S058,Nain Na Jodeen,Arijit Singh,Hindi,Romantic,2017,Neutral,66,0.8659393575847641
+S059,Nain Na Jodeen (Reprise),Arijit Singh,Hindi,Romantic,2020,Neutral,82,0.7098610973373732
+S060,Tujhe Kitna Chahne Lage - Live,Arijit Singh,Hindi,Romantic,2020,Neutral,74,0.9408573933173014
+S061,Channa Mereya (Reprise),Arijit Singh,Hindi,Sad,2016,Melancholy,97,0.6819665966405977
+S062,Blinding Lights - Acoustic,The Weeknd,English,Synth-pop,2020,Energetic,143,0.7963527169276077
+S063,Apna Time Aayega 2.0,Ranveer Singh,Hindi,Hip-Hop,2020,Neutral,98,0.5670997804714898
+S064,Don't Start Now - Acoustic,Dua Lipa,English,Disco-Pop,2021,Energetic,107,0.9181080177106422
+S065,Señorita (Remix),Shawn Mendes & Camila Cabello,English,Pop,2017,Energetic,71,0.7020563847521487
+S066,Ae Dil Hai Mushkil - Unplugged,Arijit Singh,Hindi,Romantic,2019,Neutral,136,0.5904188919481919
+S067,SAD!,XXXTENTACION,English,Hip-Hop,2017,Neutral,127,0.5715333666951525
+S068,Paniyon Sa (Reprise),Atif Aslam,Hindi,Romantic,2021,Neutral,69,0.5363168768094638
+S069,Kalank Title Track 2.0,Arijit Singh,Hindi,Romantic,2022,Neutral,137,0.5873827097998565
+S070,Dheeme Dheeme,Tony Kakkar,Hindi,Dance,2021,Energetic,72,0.7283332969337132
+S071,Blinding Lights (Extended),The Weeknd,English,Synth-pop,2021,Energetic,108,0.6612939278153902
+S072,Lucid Dreams - Acoustic,Juice WRLD,English,Hip-Hop,2020,Neutral,130,0.807122593230722
+S073,SAD! (Radio Edit),XXXTENTACION,English,Hip-Hop,2020,Neutral,88,0.6445971037729885
+S074,Dilbar - Live,Neha Kakkar,Hindi,Dance,2019,Energetic,132,0.5362034626724098
+S075,Agar Tum Saath Ho,"Alka Yagnik, Arijit Singh",Hindi,Sad,2016,Melancholy,66,0.792559745483459
+S076,Bekhayali - Unplugged,Sachet Tandon,Hindi,Sad,2020,Melancholy,101,0.8758665026245305
+S077,Señorita,Shawn Mendes & Camila Cabello,English,Pop,2019,Energetic,92,0.6031817519081876
+S078,Despacito - Acoustic,Luis Fonsi ft. Daddy Yankee,English,Reggaeton,2019,Neutral,86,0.6851596154490602
+S079,Ae Dil Hai Mushkil,Arijit Singh,Hindi,Romantic,2017,Neutral,134,0.6878634749853796
+S080,Ae Dil Hai Mushkil - Unplugged,Arijit Singh,Hindi,Romantic,2018,Neutral,115,0.7366811974267973
+S081,Blinding Lights ft. New Artist,The Weeknd,English,Synth-pop,2023,Energetic,137,0.5690664520330516
+S082,Kudiye Ni - Live,Aparshakti Khurana,Hindi,Dance,2017,Energetic,114,0.6175119032642364
+S083,Señorita - Acoustic,Shawn Mendes & Camila Cabello,English,Pop,2017,Energetic,70,0.5029030860799234
+S084,Tum Hi Ho - Unplugged,Arijit Singh,Hindi,Romantic,2014,Neutral,74,0.8177374080389364
+S085,Teri Mitti,B Praak,Hindi,Patriotic,2019,Neutral,108,0.729194859577501
+S086,Tujhe Kitna Chahne Lage,Arijit Singh,Hindi,Romantic,2018,Neutral,89,0.9630368406664411
+S087,One Dance - Acoustic,Drake ft. Wizkid & Kyla,English,Dancehall,2014,Energetic,148,0.9141065374622476
+S088,Memories,Maroon 5,English,Pop,2019,Energetic,123,0.7554432636656423
+S089,Someone You Loved,Lewis Capaldi,English,Pop,2017,Energetic,112,0.8002808978219278
+S090,Nashe Si Chadh Gayi,Arijit Singh,Hindi,Dance,2018,Energetic,141,0.8118326936898026
+S091,Ghungroo 2.0,"Arijit Singh, Shilpa Rao",Hindi,Dance,2019,Energetic,99,0.5571789878421005
+S092,Perfect (Remix),Ed Sheeran,English,Pop,2020,Energetic,135,0.53827428903866
+S093,Despacito,Luis Fonsi ft. Daddy Yankee,English,Reggaeton,2015,Neutral,94,0.7035535623754328
+S094,Kar Gayi Chull - Live,"Badshah, Fazilpuria",Hindi,Dance,2016,Energetic,148,0.9318912227264229
+S095,Hello,Adele,English,Soul,2016,Neutral,86,0.8838274943000729
+S096,SAD!,XXXTENTACION,English,Hip-Hop,2020,Neutral,79,0.5781582366109553
+S097,Channa Mereya (Remix),Arijit Singh,Hindi,Sad,2016,Melancholy,86,0.5557442062969615
+S098,Duniyaa,"Akhil, Dhvani Bhanushali",Hindi,Romantic,2021,Neutral,94,0.8656027435268911
+S099,Lucid Dreams (Radio Edit),Juice WRLD,English,Hip-Hop,2016,Neutral,67,0.5311753157087415
+S100,Kalank Title Track (Cover),Arijit Singh,Hindi,Romantic,2020,Neutral,138,0.8129812759470239
+S101,Tera Ban Jaunga 2.0,"Tulsi Kumar, Akhil Sachdeva",Hindi,Romantic,2019,Neutral,149,0.9768548952965916
+S102,Nashe Si Chadh Gayi (Reprise),Arijit Singh,Hindi,Dance,2018,Energetic,94,0.6716985643642115
+S103,Don't Start Now,Dua Lipa,English,Disco-Pop,2022,Energetic,91,0.8793995979624649
+S104,Nain Na Jodeen,Arijit Singh,Hindi,Romantic,2021,Neutral,113,0.9588233229721908
+S105,O Saathi,Atif Aslam,Hindi,Romantic,2019,Neutral,126,0.6372287002497995
+S106,Dilbar,Neha Kakkar,Hindi,Dance,2016,Energetic,62,0.7860196768096384
+S107,"thank u, next (Extended)",Ariana Grande,English,Pop,2019,Energetic,81,0.5274090557597242
+S108,Ghar More Pardesiya - Live,Shreya Ghoshal,Hindi,Classical,2018,Neutral,66,0.9343491992347912
+S109,High Hopes - Acoustic,Panic! At The Disco,English,Pop,2018,Energetic,77,0.8762436212249078
+S110,Shallow - Live,Lady Gaga & Bradley Cooper,English,Country-Rock,2019,Neutral,136,0.5462264589747292
+S111,Ghar More Pardesiya,Shreya Ghoshal,Hindi,Classical,2019,Neutral,83,0.9749782456620518
+S112,One Dance ft. New Artist,Drake ft. Wizkid & Kyla,English,Dancehall,2015,Energetic,83,0.6900539462074746
+S113,Blinding Lights - Live,The Weeknd,English,Synth-pop,2023,Energetic,93,0.5126115868906447
+S114,Tum Hi Ho (Cover),Arijit Singh,Hindi,Romantic,2016,Neutral,124,0.8447738436321638
+S115,Dheeme Dheeme 2.0,Tony Kakkar,Hindi,Dance,2017,Energetic,131,0.5657837383692143
+S116,Dance Monkey,Tones and I,English,Dance-pop,2021,Energetic,108,0.841039383020342
+S117,Tum Hi Ho (Reprise),Arijit Singh,Hindi,Romantic,2011,Neutral,61,0.5440614595249256
+S118,Shape of You ft. New Artist,Ed Sheeran,English,Pop,2016,Energetic,138,0.6745482161511509
+S119,Agar Tum Saath Ho,"Alka Yagnik, Arijit Singh",Hindi,Sad,2014,Melancholy,86,0.9525134714514377
+S120,Old Town Road - Acoustic,Lil Nas X ft. Billy Ray Cyrus,English,Country-Rap,2021,Neutral,120,0.5794188666353068
+S121,One Dance,Drake ft. Wizkid & Kyla,English,Dancehall,2016,Energetic,138,0.5933058669119275
+S122,Tum Hi Ho 2.0,Arijit Singh,Hindi,Romantic,2013,Neutral,61,0.8467085119266722
+S123,Paniyon Sa,Atif Aslam,Hindi,Romantic,2017,Neutral,85,0.6856281035216745
+S124,Shallow,Lady Gaga & Bradley Cooper,English,Country-Rock,2017,Neutral,138,0.9395833797806619
+S125,SAD!,XXXTENTACION,English,Hip-Hop,2017,Neutral,60,0.7710053957925138
+S126,Love Yourself,Justin Bieber,English,Pop,2015,Energetic,77,0.9566256912630393
+S127,Tera Ban Jaunga,"Tulsi Kumar, Akhil Sachdeva",Hindi,Romantic,2020,Neutral,128,0.6531990054086816
+S128,Watermelon Sugar (Radio Edit),Harry Styles,English,Pop rock,2018,Energetic,112,0.8828219594039514
+S129,Sicko Mode ft. New Artist,Travis Scott,English,Hip-Hop,2018,Neutral,145,0.9654166786296724
+S130,Hello ft. New Artist,Adele,English,Soul,2013,Neutral,125,0.7035452092196057
+S131,Thinking Out Loud - Acoustic,Ed Sheeran,English,Soul,2016,Neutral,118,0.566892889921947
+S132,Channa Mereya,Arijit Singh,Hindi,Sad,2015,Melancholy,109,0.9144920006214459
+S133,Kudiye Ni - Live,Aparshakti Khurana,Hindi,Dance,2017,Energetic,121,0.6651866699089495
+S134,Agar Tum Saath Ho,"Alka Yagnik, Arijit Singh",Hindi,Sad,2017,Melancholy,113,0.7857708401869142
+S135,Ghar More Pardesiya,Shreya Ghoshal,Hindi,Classical,2021,Neutral,136,0.9533194712202018
+S136,Shallow (Extended),Lady Gaga & Bradley Cooper,English,Country-Rock,2017,Neutral,133,0.7630629641815636
+S137,Ae Dil Hai Mushkil 2.0,Arijit Singh,Hindi,Romantic,2014,Neutral,71,0.5668241649637006
+S138,Channa Mereya (Cover),Arijit Singh,Hindi,Sad,2017,Melancholy,82,0.6915665470295832
+S139,Duniyaa 2.0,"Akhil, Dhvani Bhanushali",Hindi,Romantic,2020,Neutral,102,0.6079449667866943
+S140,One Dance,Drake ft. Wizkid & Kyla,English,Dancehall,2015,Energetic,78,0.5873027015751817
+S141,Circles ft. New Artist,Post Malone,English,Pop,2017,Energetic,109,0.8928016807192898
+S142,Uptown Funk,Mark Ronson ft. Bruno Mars,English,Funk,2013,Neutral,61,0.5033976059436673
+S143,Kar Gayi Chull - Live,"Badshah, Fazilpuria",Hindi,Dance,2018,Energetic,76,0.9118220947268034
+S144,Kar Gayi Chull,"Badshah, Fazilpuria",Hindi,Dance,2019,Energetic,79,0.8290809347402078
+S145,Kar Gayi Chull,"Badshah, Fazilpuria",Hindi,Dance,2016,Energetic,64,0.8256907536554614
+S146,Ghar More Pardesiya,Shreya Ghoshal,Hindi,Classical,2017,Neutral,63,0.8821944052186951
+S147,Tujhe Kitna Chahne Lage,Arijit Singh,Hindi,Romantic,2019,Neutral,141,0.5179446266031267
+S148,Leja Re,Dhvani Bhanushali,Hindi,Romantic,2018,Neutral,114,0.7093280570665557
+S149,Uptown Funk (Remix),Mark Ronson ft. Bruno Mars,English,Funk,2013,Neutral,95,0.5179500433550471
+S150,Prem Ratan Dhan Payo,Palak Muchhal,Hindi,DanceRomantic,2017,Energetic,139,0.5838682725954629
+S151,Love Yourself,Justin Bieber,English,Pop,2014,Energetic,122,0.5660461201399737
+S152,7 Rings (Remix),Ariana Grande,English,Pop,2018,Energetic,148,0.5321613151259539
+S153,Tum Hi Ho (Cover),Arijit Singh,Hindi,Romantic,2013,Neutral,106,0.807104480068236
+S154,Ae Dil Hai Mushkil (Reprise),Arijit Singh,Hindi,Romantic,2015,Neutral,93,0.7812429267645314
+S155,Kalank Title Track (Remix),Arijit Singh,Hindi,Romantic,2022,Neutral,87,0.5510520493478674
+S156,Despacito,Luis Fonsi ft. Daddy Yankee,English,Reggaeton,2017,Neutral,110,0.71338352570595
+S157,Ae Dil Hai Mushkil - Unplugged,Arijit Singh,Hindi,Romantic,2014,Neutral,76,0.6766968258577561
+S158,Watermelon Sugar (Extended),Harry Styles,English,Pop rock,2021,Energetic,73,0.8219889997514802
+S159,Coca Cola,"Tony Kakkar, Neha Kakkar",Hindi,Dance,2021,Energetic,82,0.5393763776936401
+S160,Coca Cola,"Tony Kakkar, Neha Kakkar",Hindi,Dance,2022,Energetic,63,0.5216479549688477
+S161,High Hopes,Panic! At The Disco,English,Pop,2021,Energetic,79,0.6267763711702535
+S162,Thinking Out Loud (Remix),Ed Sheeran,English,Soul,2012,Neutral,88,0.5160710782309931
+S163,Memories ft. New Artist,Maroon 5,English,Pop,2018,Energetic,123,0.9475112337161748
+S164,Despacito - Live,Luis Fonsi ft. Daddy Yankee,English,Reggaeton,2017,Neutral,119,0.7195802056381335
+S165,Vaaste - Live,Dhvani Bhanushali,Hindi,Romantic,2017,Neutral,121,0.6179591186471152
+S166,One Dance ft. New Artist,Drake ft. Wizkid & Kyla,English,Dancehall,2019,Energetic,136,0.7586483307696138
+S167,Ae Dil Hai Mushkil,Arijit Singh,Hindi,Romantic,2019,Neutral,149,0.644053710168143
+S168,Sicko Mode - Live,Travis Scott,English,Hip-Hop,2017,Neutral,78,0.7997483290134381
+S169,SAD! (Radio Edit),XXXTENTACION,English,Hip-Hop,2020,Neutral,66,0.6251743439908594
+S170,Ae Dil Hai Mushkil 2.0,Arijit Singh,Hindi,Romantic,2018,Neutral,147,0.553371290469738
+S171,Proper Patola 2.0,"Diljit Dosanjh, Badshah",Hindi,Dance,2021,Energetic,74,0.8074904924232666
+S172,Raabta,Arijit Singh,Hindi,Romantic,2016,Neutral,133,0.8855216762615941
+S173,Kamariya,Darshan Raval,Hindi,Dance,2019,Energetic,136,0.8091676505701022
+S174,SAD! - Live,XXXTENTACION,English,Hip-Hop,2018,Neutral,126,0.7335209547588799
+S175,7 Rings,Ariana Grande,English,Pop,2022,Energetic,150,0.8231818246028262
+S176,7 Rings,Ariana Grande,English,Pop,2022,Energetic,124,0.5317164207360384
+S177,Nain Na Jodeen,Arijit Singh,Hindi,Romantic,2017,Neutral,145,0.8645011386175392
+S178,Bad Guy,Billie Eilish,English,Pop,2021,Energetic,143,0.8398358023938586
+S179,Lagdi Lahore Di 2.0,Guru Randhawa,Hindi,Dance,2017,Energetic,94,0.6851698321180252
+S180,"thank u, next",Ariana Grande,English,Pop,2019,Energetic,118,0.9237267171588364
+S181,Kamariya,Darshan Raval,Hindi,Dance,2020,Energetic,96,0.8649003815466128
+S182,Vaaste (Cover),Dhvani Bhanushali,Hindi,Romantic,2022,Neutral,113,0.8193504904271778
+S183,Gerua (Reprise),Arijit Singh,Hindi,Romantic,2014,Neutral,104,0.5612103493823266
+S184,Paniyon Sa (Remix),Atif Aslam,Hindi,Romantic,2016,Neutral,144,0.9639673841587719
+S185,Despacito,Luis Fonsi ft. Daddy Yankee,English,Reggaeton,2017,Neutral,135,0.7933147302958827
+S186,Sicko Mode - Acoustic,Travis Scott,English,Hip-Hop,2019,Neutral,79,0.8329819739141757
+S187,Circles (Radio Edit),Post Malone,English,Pop,2018,Energetic,125,0.9032002049127491
+S188,Ghungroo (Cover),"Arijit Singh, Shilpa Rao",Hindi,Dance,2018,Energetic,76,0.6609203430951248
+S189,SAD! ft. New Artist,XXXTENTACION,English,Hip-Hop,2019,Neutral,63,0.5250594072517379
+S190,High Hopes,Panic! At The Disco,English,Pop,2019,Energetic,72,0.610960247814246
+S191,Thinking Out Loud,Ed Sheeran,English,Soul,2015,Neutral,148,0.6191654323513904
+S192,Proper Patola,"Diljit Dosanjh, Badshah",Hindi,Dance,2018,Energetic,90,0.5097720998382322
+S193,Tum Hi Ho - Unplugged,Arijit Singh,Hindi,Romantic,2014,Neutral,140,0.628922639694043
+S194,havana,Camila Cabello ft. Young Thug,English,Pop,2016,Energetic,122,0.7166069410434228
+S195,Dance Monkey - Live,Tones and I,English,Dance-pop,2022,Energetic,62,0.955337726853964
+S196,Señorita - Acoustic,Shawn Mendes & Camila Cabello,English,Pop,2022,Energetic,116,0.8101574667830509
+S197,7 Rings (Extended),Ariana Grande,English,Pop,2022,Energetic,99,0.5111656692455298
+S198,Sicko Mode (Radio Edit),Travis Scott,English,Hip-Hop,2020,Neutral,94,0.8436780391908731
+S199,One Dance - Live,Drake ft. Wizkid & Kyla,English,Dancehall,2016,Energetic,66,0.9388004915612509
+S200,Apna Time Aayega,Ranveer Singh,Hindi,Hip-Hop,2017,Neutral,85,0.841820413441648
+S201,Sicko Mode,Travis Scott,English,Hip-Hop,2021,Neutral,120,0.8278949834310952
+S202,High Hopes - Acoustic,Panic! At The Disco,English,Pop,2021,Energetic,141,0.7232046987653264
+S203,Nashe Si Chadh Gayi - Live,Arijit Singh,Hindi,Dance,2018,Energetic,100,0.9496108515193282
+S204,Ghar More Pardesiya (Cover),Shreya Ghoshal,Hindi,Classical,2020,Neutral,137,0.5371514403743172
+S205,Kalank Title Track (Reprise),Arijit Singh,Hindi,Romantic,2018,Neutral,118,0.618751098352082
+S206,One Dance,Drake ft. Wizkid & Kyla,English,Dancehall,2017,Energetic,80,0.5655486443568851
+S207,Watermelon Sugar,Harry Styles,English,Pop rock,2022,Energetic,111,0.8772358907360558
+S208,Perfect ft. New Artist,Ed Sheeran,English,Pop,2016,Energetic,121,0.7812527439971593
+S209,SAD! - Live,XXXTENTACION,English,Hip-Hop,2021,Neutral,150,0.8978447787556816
+S210,Tera Ban Jaunga (Remix),"Tulsi Kumar, Akhil Sachdeva",Hindi,Romantic,2019,Neutral,73,0.9481985022615718
+S211,7 Rings ft. New Artist,Ariana Grande,English,Pop,2021,Energetic,61,0.5579109373809383
+S212,Bohemian Rhapsody,Queen,English,Rock,2016,Neutral,65,0.8710759683386071
+S213,Gerua - Live,Arijit Singh,Hindi,Romantic,2013,Neutral,97,0.6936215402652628
+S214,Shallow,Lady Gaga & Bradley Cooper,English,Country-Rock,2016,Neutral,69,0.8344559421071351
+S215,Dheeme Dheeme (Cover),Tony Kakkar,Hindi,Dance,2022,Energetic,105,0.905425891982713
+S216,Dheeme Dheeme,Tony Kakkar,Hindi,Dance,2018,Energetic,95,0.8650058743618421
+S217,Hello (Radio Edit),Adele,English,Soul,2014,Neutral,92,0.7390895349851753
+S218,High Hopes (Radio Edit),Panic! At The Disco,English,Pop,2021,Energetic,122,0.7632637784574108
+S219,Proper Patola,"Diljit Dosanjh, Badshah",Hindi,Dance,2021,Energetic,60,0.9487431108856644
+S220,Vaaste,Dhvani Bhanushali,Hindi,Romantic,2019,Neutral,101,0.584459845292499
+S221,Bohemian Rhapsody - Live,Queen,English,Rock,2019,Neutral,124,0.8037690386053511
+S222,Closer (Radio Edit),The Chainsmokers ft. Halsey,English,Pop,2014,Energetic,133,0.7657509803974606
+S223,Memories (Radio Edit),Maroon 5,English,Pop,2020,Energetic,146,0.7327905965757958
+S224,Closer - Live,The Chainsmokers ft. Halsey,English,Pop,2017,Energetic,105,0.9751531761138905
+S225,Someone You Loved - Live,Lewis Capaldi,English,Pop,2017,Energetic,141,0.8074558610261646
+S226,Duniyaa,"Akhil, Dhvani Bhanushali",Hindi,Romantic,2022,Neutral,133,0.6802940523617922
+S227,Nashe Si Chadh Gayi,Arijit Singh,Hindi,Dance,2014,Energetic,148,0.967755964532358
+S228,Blinding Lights ft. New Artist,The Weeknd,English,Synth-pop,2020,Energetic,141,0.9766269184020735
+S229,Vaaste 2.0,Dhvani Bhanushali,Hindi,Romantic,2020,Neutral,138,0.8563365008921187
+S230,Closer,The Chainsmokers ft. Halsey,English,Pop,2017,Energetic,65,0.6333211978834413
+S231,High Hopes (Extended),Panic! At The Disco,English,Pop,2020,Energetic,121,0.7111057409120513
+S232,Watermelon Sugar,Harry Styles,English,Pop rock,2023,Energetic,85,0.7072768888007946
+S233,Memories ft. New Artist,Maroon 5,English,Pop,2018,Energetic,74,0.9476693913647546
+S234,Dilbar,Neha Kakkar,Hindi,Dance,2021,Energetic,130,0.8106707043204533
+S235,Bohemian Rhapsody - Acoustic,Queen,English,Rock,2021,Neutral,74,0.6830599615658539
+S236,Raabta,Arijit Singh,Hindi,Romantic,2019,Neutral,91,0.7521613049673956
+S237,Proper Patola - Live,"Diljit Dosanjh, Badshah",Hindi,Dance,2016,Energetic,81,0.5949781040009572
+S238,Bohemian Rhapsody,Queen,English,Rock,2021,Neutral,121,0.7236155116015185
+S239,Love Yourself (Extended),Justin Bieber,English,Pop,2013,Energetic,60,0.6984182059489749
+S240,Watermelon Sugar - Acoustic,Harry Styles,English,Pop rock,2020,Energetic,124,0.9461243079296845
+S241,rockstar (Extended),Post Malone ft. 21 Savage,English,Hip-Hop,2017,Neutral,101,0.6225874052466739
+S242,Uptown Funk,Mark Ronson ft. Bruno Mars,English,Funk,2013,Neutral,80,0.9273120672763605
+S243,Nain Na Jodeen (Reprise),Arijit Singh,Hindi,Romantic,2018,Neutral,127,0.9362664150910704
+S244,Channa Mereya (Reprise),Arijit Singh,Hindi,Sad,2017,Melancholy,79,0.5283777227977167
+S245,Lagdi Lahore Di 2.0,Guru Randhawa,Hindi,Dance,2019,Energetic,121,0.5699168475067904
+S246,Dilbar 2.0,Neha Kakkar,Hindi,Dance,2021,Energetic,66,0.7699851001943241
+S247,Gerua,Arijit Singh,Hindi,Romantic,2015,Neutral,111,0.8011770419659993
+S248,Vaaste 2.0,Dhvani Bhanushali,Hindi,Romantic,2022,Neutral,137,0.786122093880774
+S249,Blinding Lights,The Weeknd,English,Synth-pop,2023,Energetic,93,0.6461972885049051
+S250,Sicko Mode - Acoustic,Travis Scott,English,Hip-Hop,2016,Neutral,92,0.8843148791008109
+S251,Ghungroo - Live,"Arijit Singh, Shilpa Rao",Hindi,Dance,2022,Energetic,91,0.831971220154931
+S252,Coca Cola,"Tony Kakkar, Neha Kakkar",Hindi,Dance,2022,Energetic,61,0.6436533546464558
+S253,O Saathi,Atif Aslam,Hindi,Romantic,2019,Neutral,141,0.7120623724650463
+S254,Señorita,Shawn Mendes & Camila Cabello,English,Pop,2022,Energetic,129,0.7347278618135309
+S255,Lucid Dreams (Radio Edit),Juice WRLD,English,Hip-Hop,2020,Neutral,142,0.5936238707302118
+S256,Sicko Mode,Travis Scott,English,Hip-Hop,2020,Neutral,62,0.5690035960414984
+S257,Someone You Loved,Lewis Capaldi,English,Pop,2017,Energetic,107,0.9576170365907573
+S258,Shape of You (Extended),Ed Sheeran,English,Pop,2016,Energetic,142,0.8371015274377437
+S259,O Saathi (Remix),Atif Aslam,Hindi,Romantic,2017,Neutral,64,0.7729446137043807
+S260,Blinding Lights,The Weeknd,English,Synth-pop,2018,Energetic,80,0.8883777573035274
+S261,rockstar (Extended),Post Malone ft. 21 Savage,English,Hip-Hop,2016,Neutral,76,0.6897694388056812
+S262,Watermelon Sugar,Harry Styles,English,Pop rock,2021,Energetic,118,0.5834696949329644
+S263,Lagdi Lahore Di,Guru Randhawa,Hindi,Dance,2022,Energetic,63,0.8329696933575104
+S264,Nashe Si Chadh Gayi - Live,Arijit Singh,Hindi,Dance,2017,Energetic,64,0.5112393429892567
+S265,Watermelon Sugar (Remix),Harry Styles,English,Pop rock,2018,Energetic,61,0.6200766429744399
+S266,Don't Start Now - Live,Dua Lipa,English,Disco-Pop,2017,Energetic,110,0.6337145116120436
+S267,Bohemian Rhapsody - Live,Queen,English,Rock,2017,Neutral,70,0.5039713886087641
+S268,Tum Hi Ho 2.0,Arijit Singh,Hindi,Romantic,2012,Neutral,74,0.8312991488153723
+S269,Dheeme Dheeme,Tony Kakkar,Hindi,Dance,2021,Energetic,142,0.591562777238309
+S270,Señorita,Shawn Mendes & Camila Cabello,English,Pop,2019,Energetic,77,0.8110552805784825
+S271,Thinking Out Loud (Remix),Ed Sheeran,English,Soul,2015,Neutral,129,0.8862262045433371
+S272,Proper Patola - Live,"Diljit Dosanjh, Badshah",Hindi,Dance,2016,Energetic,67,0.5725600594095978
+S273,SAD! ft. New Artist,XXXTENTACION,English,Hip-Hop,2018,Neutral,77,0.5534938201894174
+S274,Don't Start Now - Acoustic,Dua Lipa,English,Disco-Pop,2022,Energetic,140,0.5217650827318346
+S275,Hello (Extended),Adele,English,Soul,2016,Neutral,79,0.6704441967074923
+S276,Shape of You,Ed Sheeran,English,Pop,2019,Energetic,69,0.9297833497061181
+S277,Watermelon Sugar - Live,Harry Styles,English,Pop rock,2020,Energetic,107,0.9176841219290338
+S278,Apna Time Aayega - Unplugged,Ranveer Singh,Hindi,Hip-Hop,2017,Neutral,77,0.631392323316976
+S279,Tujhe Kitna Chahne Lage (Reprise),Arijit Singh,Hindi,Romantic,2020,Neutral,129,0.6983082704636732
+S280,Señorita (Radio Edit),Shawn Mendes & Camila Cabello,English,Pop,2019,Energetic,132,0.7856755394905184
+S281,Dilbar,Neha Kakkar,Hindi,Dance,2020,Energetic,82,0.7617108257444496
+S282,Bohemian Rhapsody - Acoustic,Queen,English,Rock,2017,Neutral,113,0.8073788284603989
+S283,Perfect (Remix),Ed Sheeran,English,Pop,2019,Energetic,142,0.8837035189623352
+S284,havana (Extended),Camila Cabello ft. Young Thug,English,Pop,2017,Energetic,66,0.8277810196425693
+S285,Thinking Out Loud - Live,Ed Sheeran,English,Soul,2012,Neutral,139,0.8159228702808883
+S286,Memories (Radio Edit),Maroon 5,English,Pop,2018,Energetic,64,0.9077080774193198
+S287,Apna Time Aayega,Ranveer Singh,Hindi,Hip-Hop,2017,Neutral,104,0.9583414347886661
+S288,Kar Gayi Chull,"Badshah, Fazilpuria",Hindi,Dance,2019,Energetic,105,0.7582963913780453
+S289,Kudiye Ni - Unplugged,Aparshakti Khurana,Hindi,Dance,2020,Energetic,122,0.8204453631083315
+S290,God's Plan (Radio Edit),Drake,English,Hip-Hop,2021,Neutral,88,0.6730855050981346
+S291,Lagdi Lahore Di 2.0,Guru Randhawa,Hindi,Dance,2020,Energetic,60,0.5721964235062699
+S292,Teri Mitti,B Praak,Hindi,Patriotic,2022,Neutral,101,0.5981716778953059
+S293,Thinking Out Loud (Extended),Ed Sheeran,English,Soul,2016,Neutral,98,0.9382464533839114
+S294,SAD!,XXXTENTACION,English,Hip-Hop,2019,Neutral,149,0.9265976817494398
+S295,Nain Na Jodeen,Arijit Singh,Hindi,Romantic,2019,Neutral,64,0.7862432303479541
+S296,Leja Re (Remix),Dhvani Bhanushali,Hindi,Romantic,2016,Neutral,142,0.8098430645213638
+S297,One Dance,Drake ft. Wizkid & Kyla,English,Dancehall,2014,Energetic,61,0.6306799565947383
+S298,Don't Start Now (Radio Edit),Dua Lipa,English,Disco-Pop,2022,Energetic,99,0.6708974010346158
+S299,Old Town Road,Lil Nas X ft. Billy Ray Cyrus,English,Country-Rap,2022,Neutral,137,0.5695729135690819
+S300,Vaaste,Dhvani Bhanushali,Hindi,Romantic,2020,Neutral,79,0.957309305637436
+S301,Gerua (Remix),Arijit Singh,Hindi,Romantic,2017,Neutral,141,0.7615578168442009
+S302,Perfect (Radio Edit),Ed Sheeran,English,Pop,2016,Energetic,60,0.6026838545512327
+S303,Coca Cola,"Tony Kakkar, Neha Kakkar",Hindi,Dance,2019,Energetic,94,0.5468668071870071
+S304,God's Plan,Drake,English,Hip-Hop,2017,Neutral,136,0.7815380148997861
+S305,Raabta 2.0,Arijit Singh,Hindi,Romantic,2017,Neutral,121,0.5959617247626057
+S306,Paniyon Sa - Unplugged,Atif Aslam,Hindi,Romantic,2019,Neutral,96,0.7416890265805439
+S307,Lucid Dreams (Radio Edit),Juice WRLD,English,Hip-Hop,2018,Neutral,149,0.7076066906992038
+S308,Kudiye Ni,Aparshakti Khurana,Hindi,Dance,2019,Energetic,111,0.8967281758665042
+S309,Uptown Funk,Mark Ronson ft. Bruno Mars,English,Funk,2012,Neutral,115,0.8314539083486113
+S310,"thank u, next",Ariana Grande,English,Pop,2021,Energetic,84,0.5433066385828846
+S311,Watermelon Sugar (Remix),Harry Styles,English,Pop rock,2023,Energetic,133,0.5852555527293126
+S312,Kudiye Ni 2.0,Aparshakti Khurana,Hindi,Dance,2020,Energetic,85,0.5228954128653777
+S313,Teri Mitti,B Praak,Hindi,Patriotic,2018,Neutral,106,0.657618767564163
+S314,Tum Hi Ho (Cover),Arijit Singh,Hindi,Romantic,2013,Neutral,97,0.6419997833338382
+S315,Prem Ratan Dhan Payo 2.0,Palak Muchhal,Hindi,DanceRomantic,2013,Energetic,145,0.6488503565013699
+S316,Duniyaa - Live,"Akhil, Dhvani Bhanushali",Hindi,Romantic,2018,Neutral,89,0.9783426886734947
+S317,Bekhayali - Unplugged,Sachet Tandon,Hindi,Sad,2020,Melancholy,132,0.817206860681793
+S318,Duniyaa,"Akhil, Dhvani Bhanushali",Hindi,Romantic,2022,Neutral,121,0.7960102383249026
+S319,Lagdi Lahore Di,Guru Randhawa,Hindi,Dance,2018,Energetic,118,0.9340901426198119
+S320,Ghungroo 2.0,"Arijit Singh, Shilpa Rao",Hindi,Dance,2019,Energetic,107,0.9538611603952818
+S321,Channa Mereya,Arijit Singh,Hindi,Sad,2019,Melancholy,83,0.8122038101197797
+S322,Teri Mitti (Cover),B Praak,Hindi,Patriotic,2021,Neutral,119,0.7926880044871671
+S323,Uptown Funk,Mark Ronson ft. Bruno Mars,English,Funk,2014,Neutral,125,0.7203451293296814
+S324,Lucid Dreams,Juice WRLD,English,Hip-Hop,2017,Neutral,67,0.7502964188983533
+S325,Gerua - Live,Arijit Singh,Hindi,Romantic,2013,Neutral,142,0.6245175927057691
+S326,Kamariya,Darshan Raval,Hindi,Dance,2016,Energetic,82,0.5206786590407
+S327,Lucid Dreams,Juice WRLD,English,Hip-Hop,2018,Neutral,140,0.5422971784017036
+S328,Someone You Loved (Remix),Lewis Capaldi,English,Pop,2018,Energetic,88,0.9349222536747008
+S329,SAD!,XXXTENTACION,English,Hip-Hop,2018,Neutral,68,0.5194719807956796
+S330,Sicko Mode,Travis Scott,English,Hip-Hop,2017,Neutral,126,0.8531916492639087
+S331,havana - Acoustic,Camila Cabello ft. Young Thug,English,Pop,2017,Energetic,100,0.6727224620131373
+S332,Kar Gayi Chull,"Badshah, Fazilpuria",Hindi,Dance,2018,Energetic,114,0.7377592725374902
+S333,Shallow (Remix),Lady Gaga & Bradley Cooper,English,Country-Rock,2018,Neutral,126,0.8752543262615307
+S334,Kamariya,Darshan Raval,Hindi,Dance,2021,Energetic,122,0.9094174744438742
+S335,Tera Ban Jaunga (Reprise),"Tulsi Kumar, Akhil Sachdeva",Hindi,Romantic,2019,Neutral,105,0.8858437363946805
+S336,Lucid Dreams,Juice WRLD,English,Hip-Hop,2019,Neutral,71,0.6525142840145852
+S337,"thank u, next",Ariana Grande,English,Pop,2017,Energetic,70,0.8230940404479715
+S338,Bekhayali - Unplugged,Sachet Tandon,Hindi,Sad,2020,Melancholy,74,0.6037403354768242
+S339,Lucid Dreams (Remix),Juice WRLD,English,Hip-Hop,2021,Neutral,110,0.5950752418849599
+S340,Bad Guy - Live,Billie Eilish,English,Pop,2018,Energetic,97,0.8099820182414763
+S341,Gerua - Live,Arijit Singh,Hindi,Romantic,2015,Neutral,60,0.8199666365958977
+S342,Dilbar 2.0,Neha Kakkar,Hindi,Dance,2019,Energetic,87,0.783990477104501
+S343,Apna Time Aayega (Remix),Ranveer Singh,Hindi,Hip-Hop,2019,Neutral,114,0.9455437621993089
+S344,Lagdi Lahore Di,Guru Randhawa,Hindi,Dance,2020,Energetic,60,0.7774882054842291
+S345,Don't Start Now - Live,Dua Lipa,English,Disco-Pop,2021,Energetic,65,0.5571096004285679
+S346,One Dance - Live,Drake ft. Wizkid & Kyla,English,Dancehall,2018,Energetic,110,0.6055281298798165
+S347,Closer ft. New Artist,The Chainsmokers ft. Halsey,English,Pop,2015,Energetic,110,0.500652740148405
+S348,rockstar,Post Malone ft. 21 Savage,English,Hip-Hop,2015,Neutral,117,0.972610118141022
+S349,Circles,Post Malone,English,Pop,2020,Energetic,129,0.6842661996499415
+S350,Someone You Loved,Lewis Capaldi,English,Pop,2017,Energetic,75,0.7660974204354238
+S351,rockstar,Post Malone ft. 21 Savage,English,Hip-Hop,2019,Neutral,111,0.9418275859141798
+S352,Someone You Loved (Remix),Lewis Capaldi,English,Pop,2018,Energetic,113,0.935031197384477
+S353,Hello - Acoustic,Adele,English,Soul,2017,Neutral,83,0.890975604897179
+S354,Channa Mereya 2.0,Arijit Singh,Hindi,Sad,2016,Melancholy,65,0.7803211092338338
+S355,Duniyaa,"Akhil, Dhvani Bhanushali",Hindi,Romantic,2021,Neutral,89,0.5396573011623776
+S356,Lucid Dreams (Radio Edit),Juice WRLD,English,Hip-Hop,2021,Neutral,82,0.6824606339112428
+S357,Memories (Remix),Maroon 5,English,Pop,2022,Energetic,104,0.7628314481529834
+S358,Leja Re (Remix),Dhvani Bhanushali,Hindi,Romantic,2020,Neutral,109,0.8757784118595257
+S359,Bohemian Rhapsody - Live,Queen,English,Rock,2019,Neutral,138,0.7841257016338272
+S360,havana (Remix),Camila Cabello ft. Young Thug,English,Pop,2018,Energetic,136,0.7207770039017788
+S361,Gerua (Cover),Arijit Singh,Hindi,Romantic,2013,Neutral,105,0.6467495244497332
+S362,7 Rings,Ariana Grande,English,Pop,2019,Energetic,95,0.8389754295303601
+S363,Duniyaa - Live,"Akhil, Dhvani Bhanushali",Hindi,Romantic,2017,Neutral,73,0.7180734106088678
+S364,God's Plan - Acoustic,Drake,English,Hip-Hop,2021,Neutral,80,0.5134847191765022
+S365,Paniyon Sa,Atif Aslam,Hindi,Romantic,2021,Neutral,121,0.9543544527707909
+S366,7 Rings (Remix),Ariana Grande,English,Pop,2019,Energetic,96,0.6044857180278546
+S367,Lucid Dreams - Acoustic,Juice WRLD,English,Hip-Hop,2019,Neutral,61,0.948381265752294
+S368,Old Town Road,Lil Nas X ft. Billy Ray Cyrus,English,Country-Rap,2017,Neutral,83,0.7526748103927428
+S369,Dance Monkey (Radio Edit),Tones and I,English,Dance-pop,2021,Energetic,72,0.5741470752258123
+S370,Despacito (Extended),Luis Fonsi ft. Daddy Yankee,English,Reggaeton,2015,Neutral,104,0.8608964448315037
+S371,High Hopes - Live,Panic! At The Disco,English,Pop,2020,Energetic,111,0.718997715378815
+S372,O Saathi (Remix),Atif Aslam,Hindi,Romantic,2020,Neutral,132,0.598721302148981
+S373,Hello,Adele,English,Soul,2013,Neutral,115,0.6959676112874944
+S374,Leja Re - Live,Dhvani Bhanushali,Hindi,Romantic,2017,Neutral,144,0.7397871117399347
+S375,Kamariya (Remix),Darshan Raval,Hindi,Dance,2019,Energetic,114,0.668901139507954
+S376,Circles (Remix),Post Malone,English,Pop,2019,Energetic,118,0.7627717258569651
+S377,Bad Guy (Extended),Billie Eilish,English,Pop,2022,Energetic,73,0.5768800692504291
+S378,Kalank Title Track (Cover),Arijit Singh,Hindi,Romantic,2020,Neutral,66,0.9571038695232716
+S379,rockstar - Live,Post Malone ft. 21 Savage,English,Hip-Hop,2015,Neutral,122,0.9128005363922871
+S380,Sicko Mode,Travis Scott,English,Hip-Hop,2017,Neutral,75,0.7646670978227669
+S381,Don't Start Now (Extended),Dua Lipa,English,Disco-Pop,2022,Energetic,79,0.5486028506041366
+S382,Dheeme Dheeme,Tony Kakkar,Hindi,Dance,2020,Energetic,85,0.6019873920972457
+S383,Bohemian Rhapsody ft. New Artist,Queen,English,Rock,2021,Neutral,86,0.551776750183155
+S384,Old Town Road,Lil Nas X ft. Billy Ray Cyrus,English,Country-Rap,2021,Neutral,120,0.8437729425681652
+S385,Agar Tum Saath Ho (Cover),"Alka Yagnik, Arijit Singh",Hindi,Sad,2014,Melancholy,66,0.9242608014667577
+S386,Dilbar (Cover),Neha Kakkar,Hindi,Dance,2019,Energetic,116,0.7194558283934306
+S387,Old Town Road,Lil Nas X ft. Billy Ray Cyrus,English,Country-Rap,2021,Neutral,65,0.8009405392905198
+S388,Don't Start Now (Extended),Dua Lipa,English,Disco-Pop,2021,Energetic,133,0.6516850784112453
+S389,Ghar More Pardesiya (Remix),Shreya Ghoshal,Hindi,Classical,2018,Neutral,89,0.6518928072225222
+S390,Proper Patola (Remix),"Diljit Dosanjh, Badshah",Hindi,Dance,2021,Energetic,112,0.5437809292694703
+S391,Uptown Funk,Mark Ronson ft. Bruno Mars,English,Funk,2012,Neutral,91,0.8463056711617236
+S392,Nain Na Jodeen - Unplugged,Arijit Singh,Hindi,Romantic,2016,Neutral,125,0.5018526506751934
+S393,Shallow (Remix),Lady Gaga & Bradley Cooper,English,Country-Rock,2018,Neutral,88,0.5658979360063819
+S394,Leja Re - Live,Dhvani Bhanushali,Hindi,Romantic,2018,Neutral,150,0.9332411918716463
+S395,Agar Tum Saath Ho,"Alka Yagnik, Arijit Singh",Hindi,Sad,2013,Melancholy,132,0.865128465260658
+S396,Nashe Si Chadh Gayi,Arijit Singh,Hindi,Dance,2019,Energetic,91,0.6425442935586506
+S397,Watermelon Sugar,Harry Styles,English,Pop rock,2023,Energetic,94,0.5686071771869585
+S398,Kalank Title Track - Unplugged,Arijit Singh,Hindi,Romantic,2017,Neutral,133,0.5270343913660102
+S399,Prem Ratan Dhan Payo,Palak Muchhal,Hindi,DanceRomantic,2013,Energetic,150,0.9475419217731186
+S400,Ae Dil Hai Mushkil,Arijit Singh,Hindi,Romantic,2017,Neutral,150,0.665475234535767
+S401,Tera Ban Jaunga - Unplugged,"Tulsi Kumar, Akhil Sachdeva",Hindi,Romantic,2019,Neutral,135,0.959649614850207
+S402,O Saathi,Atif Aslam,Hindi,Romantic,2016,Neutral,106,0.7663298689082472
+S403,Shallow,Lady Gaga & Bradley Cooper,English,Country-Rock,2018,Neutral,68,0.6075360738982998
+S404,Bad Guy (Remix),Billie Eilish,English,Pop,2017,Energetic,132,0.9086721591123268
+S405,Bekhayali,Sachet Tandon,Hindi,Sad,2019,Melancholy,62,0.7449501399422179
+S406,Dilbar (Reprise),Neha Kakkar,Hindi,Dance,2018,Energetic,106,0.6913810922703032
+S407,Sicko Mode,Travis Scott,English,Hip-Hop,2019,Neutral,133,0.8705927984650776
+S408,havana (Extended),Camila Cabello ft. Young Thug,English,Pop,2020,Energetic,149,0.8514099775286554
+S409,Leja Re,Dhvani Bhanushali,Hindi,Romantic,2020,Neutral,115,0.6986280862430436
+S410,Ae Dil Hai Mushkil - Live,Arijit Singh,Hindi,Romantic,2015,Neutral,94,0.7362108672893285
+S411,Teri Mitti - Unplugged,B Praak,Hindi,Patriotic,2020,Neutral,80,0.5623657165198548
+S412,Leja Re (Remix),Dhvani Bhanushali,Hindi,Romantic,2021,Neutral,119,0.7782452234781028
+S413,SAD! (Radio Edit),XXXTENTACION,English,Hip-Hop,2018,Neutral,65,0.8074865911888184
+S414,High Hopes (Extended),Panic! At The Disco,English,Pop,2016,Energetic,131,0.5239394486548755
+S415,One Dance,Drake ft. Wizkid & Kyla,English,Dancehall,2014,Energetic,99,0.7126174595211897
+S416,Tera Ban Jaunga - Unplugged,"Tulsi Kumar, Akhil Sachdeva",Hindi,Romantic,2022,Neutral,64,0.737836688065728
+S417,Thinking Out Loud - Live,Ed Sheeran,English,Soul,2016,Neutral,132,0.7462467989784325
+S418,O Saathi,Atif Aslam,Hindi,Romantic,2020,Neutral,69,0.9629077040909596
+S419,Leja Re,Dhvani Bhanushali,Hindi,Romantic,2019,Neutral,109,0.8031458951328734
+S420,God's Plan,Drake,English,Hip-Hop,2018,Neutral,118,0.8506662302537238
+S421,Bad Guy,Billie Eilish,English,Pop,2020,Energetic,144,0.832161910579265
+S422,Ae Dil Hai Mushkil,Arijit Singh,Hindi,Romantic,2019,Neutral,144,0.5318402476901171
+S423,Nain Na Jodeen - Unplugged,Arijit Singh,Hindi,Romantic,2018,Neutral,147,0.800554231317543
+S424,Señorita (Extended),Shawn Mendes & Camila Cabello,English,Pop,2020,Energetic,60,0.5580169789742285
+S425,rockstar - Live,Post Malone ft. 21 Savage,English,Hip-Hop,2020,Neutral,77,0.571904710487179
+S426,rockstar (Remix),Post Malone ft. 21 Savage,English,Hip-Hop,2015,Neutral,114,0.5353975827379193
+S427,Someone You Loved,Lewis Capaldi,English,Pop,2021,Energetic,98,0.8254633971540706
+S428,Bohemian Rhapsody,Queen,English,Rock,2019,Neutral,111,0.7830863130591821
+S429,Apna Time Aayega (Cover),Ranveer Singh,Hindi,Hip-Hop,2019,Neutral,98,0.5789402781131122
+S430,Prem Ratan Dhan Payo (Reprise),Palak Muchhal,Hindi,DanceRomantic,2016,Energetic,142,0.5653510305094145
+S431,High Hopes,Panic! At The Disco,English,Pop,2021,Energetic,81,0.8102506031714561
+S432,Lucid Dreams,Juice WRLD,English,Hip-Hop,2016,Neutral,139,0.5646143663258543
+S433,Sicko Mode (Extended),Travis Scott,English,Hip-Hop,2018,Neutral,100,0.5528204122381071
+S434,Perfect - Acoustic,Ed Sheeran,English,Pop,2016,Energetic,118,0.6902349048890413
+S435,Dilbar,Neha Kakkar,Hindi,Dance,2021,Energetic,118,0.7458865399163743
+S436,Kalank Title Track 2.0,Arijit Singh,Hindi,Romantic,2019,Neutral,70,0.6416907039336833
+S437,Channa Mereya (Cover),Arijit Singh,Hindi,Sad,2015,Melancholy,74,0.9131380097643049
+S438,SAD!,XXXTENTACION,English,Hip-Hop,2017,Neutral,94,0.5455109770701949
+S439,One Dance (Remix),Drake ft. Wizkid & Kyla,English,Dancehall,2019,Energetic,64,0.6489479831542102
+S440,Lagdi Lahore Di 2.0,Guru Randhawa,Hindi,Dance,2020,Energetic,60,0.8472750133519344
+S441,7 Rings - Acoustic,Ariana Grande,English,Pop,2022,Energetic,107,0.8141723585003178
+S442,Prem Ratan Dhan Payo,Palak Muchhal,Hindi,DanceRomantic,2018,Energetic,147,0.8728242479263522
+S443,Memories - Acoustic,Maroon 5,English,Pop,2017,Energetic,69,0.6740877644862351
+S444,Closer - Live,The Chainsmokers ft. Halsey,English,Pop,2018,Energetic,127,0.9539078320921115
+S445,Bad Guy - Live,Billie Eilish,English,Pop,2018,Energetic,98,0.6534574030972808
+S446,Lagdi Lahore Di,Guru Randhawa,Hindi,Dance,2018,Energetic,125,0.7517596140002997
+S447,Dance Monkey - Live,Tones and I,English,Dance-pop,2020,Energetic,115,0.8162781327732274
+S448,Uptown Funk ft. New Artist,Mark Ronson ft. Bruno Mars,English,Funk,2016,Neutral,145,0.8466907265452304
+S449,Kamariya,Darshan Raval,Hindi,Dance,2020,Energetic,116,0.6344657190923324
+S450,Shallow,Lady Gaga & Bradley Cooper,English,Country-Rock,2020,Neutral,94,0.9301655598749295
+S451,Nain Na Jodeen - Unplugged,Arijit Singh,Hindi,Romantic,2019,Neutral,112,0.918640238517189
+S452,Kudiye Ni (Remix),Aparshakti Khurana,Hindi,Dance,2022,Energetic,139,0.7164853642892
+S453,Kalank Title Track,Arijit Singh,Hindi,Romantic,2017,Neutral,108,0.7620151599878038
+S454,Coca Cola (Remix),"Tony Kakkar, Neha Kakkar",Hindi,Dance,2019,Energetic,123,0.5374795888248998
+S455,O Saathi 2.0,Atif Aslam,Hindi,Romantic,2016,Neutral,115,0.6709040102375312
+S456,Closer (Extended),The Chainsmokers ft. Halsey,English,Pop,2016,Energetic,100,0.8679611431694324
+S457,Dilbar - Unplugged,Neha Kakkar,Hindi,Dance,2021,Energetic,79,0.8747937270041257
+S458,Ghungroo,"Arijit Singh, Shilpa Rao",Hindi,Dance,2020,Energetic,113,0.8612152997991759
+S459,God's Plan,Drake,English,Hip-Hop,2017,Neutral,135,0.7299857163764847
+S460,O Saathi,Atif Aslam,Hindi,Romantic,2017,Neutral,119,0.6530165881672464
+S461,Channa Mereya,Arijit Singh,Hindi,Sad,2015,Melancholy,138,0.5344766310103269
+S462,"thank u, next (Remix)",Ariana Grande,English,Pop,2019,Energetic,115,0.9519295207088441
+S463,Despacito,Luis Fonsi ft. Daddy Yankee,English,Reggaeton,2019,Neutral,122,0.6132717150274105
+S464,Señorita - Live,Shawn Mendes & Camila Cabello,English,Pop,2017,Energetic,129,0.527739948069492
+S465,Shallow,Lady Gaga & Bradley Cooper,English,Country-Rock,2016,Neutral,126,0.5984171837995604
+S466,Circles ft. New Artist,Post Malone,English,Pop,2021,Energetic,66,0.7679881181596745
+S467,Dilbar,Neha Kakkar,Hindi,Dance,2017,Energetic,109,0.8612127575995212
+S468,Vaaste,Dhvani Bhanushali,Hindi,Romantic,2021,Neutral,110,0.9513568852578069
+S469,One Dance - Acoustic,Drake ft. Wizkid & Kyla,English,Dancehall,2015,Energetic,84,0.9401753708532976
+S470,Prem Ratan Dhan Payo (Cover),Palak Muchhal,Hindi,DanceRomantic,2017,Energetic,147,0.5254831079584765
+S471,Prem Ratan Dhan Payo (Cover),Palak Muchhal,Hindi,DanceRomantic,2014,Energetic,134,0.5654936736799806
+S472,Teri Mitti - Live,B Praak,Hindi,Patriotic,2017,Neutral,102,0.6100129122082062
+S473,Blinding Lights,The Weeknd,English,Synth-pop,2019,Energetic,67,0.5232850417009204
+S474,Kar Gayi Chull (Reprise),"Badshah, Fazilpuria",Hindi,Dance,2019,Energetic,135,0.8961009136500555
+S475,Thinking Out Loud - Live,Ed Sheeran,English,Soul,2015,Neutral,61,0.8682540743998635
+S476,Bekhayali,Sachet Tandon,Hindi,Sad,2018,Melancholy,96,0.9642076243481352
+S477,Nashe Si Chadh Gayi (Cover),Arijit Singh,Hindi,Dance,2014,Energetic,125,0.5139953710786734
+S478,Nashe Si Chadh Gayi (Cover),Arijit Singh,Hindi,Dance,2014,Energetic,100,0.5355312437408433
+S479,Coca Cola,"Tony Kakkar, Neha Kakkar",Hindi,Dance,2021,Energetic,138,0.7908257955533933
+S480,Agar Tum Saath Ho - Live,"Alka Yagnik, Arijit Singh",Hindi,Sad,2013,Melancholy,75,0.9283488987606463
+S481,Bohemian Rhapsody (Extended),Queen,English,Rock,2020,Neutral,124,0.801077807845872
+S482,Coca Cola - Live,"Tony Kakkar, Neha Kakkar",Hindi,Dance,2020,Energetic,89,0.9015712176826878
+S483,Señorita (Extended),Shawn Mendes & Camila Cabello,English,Pop,2022,Energetic,111,0.5110889759932762
+S484,One Dance ft. New Artist,Drake ft. Wizkid & Kyla,English,Dancehall,2017,Energetic,62,0.6003752474803334
+S485,Tera Ban Jaunga - Unplugged,"Tulsi Kumar, Akhil Sachdeva",Hindi,Romantic,2020,Neutral,95,0.5360568553535854
+S486,Raabta,Arijit Singh,Hindi,Romantic,2016,Neutral,64,0.9597951420521128
+S487,Paniyon Sa (Cover),Atif Aslam,Hindi,Romantic,2018,Neutral,124,0.773840644033859
+S488,Teri Mitti,B Praak,Hindi,Patriotic,2022,Neutral,85,0.766160276902867
+S489,SAD! - Live,XXXTENTACION,English,Hip-Hop,2016,Neutral,77,0.9288035423682213
+S490,Kamariya,Darshan Raval,Hindi,Dance,2021,Energetic,125,0.6106462499906739
+S491,Watermelon Sugar,Harry Styles,English,Pop rock,2023,Energetic,115,0.9007840676125025
+S492,Bekhayali 2.0,Sachet Tandon,Hindi,Sad,2017,Melancholy,139,0.5380485186588051
+S493,Uptown Funk (Radio Edit),Mark Ronson ft. Bruno Mars,English,Funk,2015,Neutral,68,0.555238661438397
+S494,havana ft. New Artist,Camila Cabello ft. Young Thug,English,Pop,2018,Energetic,81,0.7738220241123838
+S495,7 Rings,Ariana Grande,English,Pop,2021,Energetic,124,0.9364724296904892
+S496,Memories,Maroon 5,English,Pop,2018,Energetic,68,0.9076429833476816
+S497,Dheeme Dheeme,Tony Kakkar,Hindi,Dance,2020,Energetic,105,0.6954138177740328
+S498,God's Plan (Remix),Drake,English,Hip-Hop,2018,Neutral,97,0.5094405295207999
+S499,Dilbar 2.0,Neha Kakkar,Hindi,Dance,2017,Energetic,110,0.8865020013017444
+S500,Lagdi Lahore Di,Guru Randhawa,Hindi,Dance,2018,Energetic,120,0.5400262927727948
+S501,Kar Gayi Chull 2.0,"Badshah, Fazilpuria",Hindi,Dance,2015,Energetic,77,0.6447801605814953
+S502,Tum Hi Ho (Cover),Arijit Singh,Hindi,Romantic,2014,Neutral,84,0.5614647902905258
+S503,Agar Tum Saath Ho (Reprise),"Alka Yagnik, Arijit Singh",Hindi,Sad,2017,Melancholy,120,0.8755782969603464
+S504,rockstar,Post Malone ft. 21 Savage,English,Hip-Hop,2020,Neutral,150,0.7058202190921665
+S505,God's Plan,Drake,English,Hip-Hop,2018,Neutral,94,0.6529066489254721
+S506,Vaaste 2.0,Dhvani Bhanushali,Hindi,Romantic,2021,Neutral,63,0.6486648191203116
+S507,Ghungroo (Remix),"Arijit Singh, Shilpa Rao",Hindi,Dance,2020,Energetic,121,0.8821441823773328
+S508,Shape of You - Live,Ed Sheeran,English,Pop,2018,Energetic,137,0.960194835212429
+S509,Proper Patola (Reprise),"Diljit Dosanjh, Badshah",Hindi,Dance,2018,Energetic,115,0.7100816522125866
+S510,Coca Cola,"Tony Kakkar, Neha Kakkar",Hindi,Dance,2022,Energetic,69,0.749461417433136
+S511,Dance Monkey (Remix),Tones and I,English,Dance-pop,2022,Energetic,97,0.6053384750443337
+S512,High Hopes,Panic! At The Disco,English,Pop,2018,Energetic,132,0.9514042001759961
+S513,rockstar,Post Malone ft. 21 Savage,English,Hip-Hop,2016,Neutral,87,0.7902584164280793
+S514,Old Town Road (Radio Edit),Lil Nas X ft. Billy Ray Cyrus,English,Country-Rap,2021,Neutral,139,0.6763548609854381
+S515,Tujhe Kitna Chahne Lage - Unplugged,Arijit Singh,Hindi,Romantic,2017,Neutral,86,0.903174102081667
+S516,Kudiye Ni 2.0,Aparshakti Khurana,Hindi,Dance,2020,Energetic,87,0.8306776955766508
+S517,"thank u, next",Ariana Grande,English,Pop,2018,Energetic,94,0.7608025861306278
+S518,Señorita,Shawn Mendes & Camila Cabello,English,Pop,2018,Energetic,122,0.5590633248237559
+S519,Tujhe Kitna Chahne Lage (Cover),Arijit Singh,Hindi,Romantic,2017,Neutral,73,0.5164935678492446
+S520,Despacito ft. New Artist,Luis Fonsi ft. Daddy Yankee,English,Reggaeton,2015,Neutral,87,0.5616773476448204
+S521,Ghungroo,"Arijit Singh, Shilpa Rao",Hindi,Dance,2018,Energetic,74,0.7671995387841168
+S522,Ghar More Pardesiya,Shreya Ghoshal,Hindi,Classical,2022,Neutral,150,0.919051362574708
+S523,Someone You Loved (Remix),Lewis Capaldi,English,Pop,2018,Energetic,149,0.901399057302886
+S524,Thinking Out Loud,Ed Sheeran,English,Soul,2015,Neutral,137,0.9144509230413016
+S525,Tum Hi Ho - Unplugged,Arijit Singh,Hindi,Romantic,2014,Neutral,109,0.7401933062355148
+S526,Watermelon Sugar,Harry Styles,English,Pop rock,2022,Energetic,88,0.805072265325385
+S527,Leja Re (Reprise),Dhvani Bhanushali,Hindi,Romantic,2018,Neutral,87,0.6522743062272907
+S528,Despacito (Radio Edit),Luis Fonsi ft. Daddy Yankee,English,Reggaeton,2018,Neutral,94,0.9573761698335099
+S529,Love Yourself (Remix),Justin Bieber,English,Pop,2016,Energetic,74,0.6619650284254296
+S530,Kar Gayi Chull,"Badshah, Fazilpuria",Hindi,Dance,2017,Energetic,128,0.905989539650663
+S531,Sicko Mode,Travis Scott,English,Hip-Hop,2020,Neutral,80,0.5443690745444971
+S532,Nashe Si Chadh Gayi,Arijit Singh,Hindi,Dance,2018,Energetic,66,0.5150283988138846
+S533,Shallow - Live,Lady Gaga & Bradley Cooper,English,Country-Rock,2016,Neutral,136,0.5216189448878849
+S534,Agar Tum Saath Ho,"Alka Yagnik, Arijit Singh",Hindi,Sad,2013,Melancholy,92,0.8658950256833313
+S535,rockstar,Post Malone ft. 21 Savage,English,Hip-Hop,2015,Neutral,125,0.6906900856856719
+S536,Perfect ft. New Artist,Ed Sheeran,English,Pop,2019,Energetic,116,0.5621060030939693
+S537,Prem Ratan Dhan Payo - Live,Palak Muchhal,Hindi,DanceRomantic,2018,Energetic,111,0.6016586971643173
+S538,Circles (Extended),Post Malone,English,Pop,2018,Energetic,130,0.7793644320421749
+S539,Despacito,Luis Fonsi ft. Daddy Yankee,English,Reggaeton,2020,Neutral,60,0.8366601168928476
+S540,Ghar More Pardesiya,Shreya Ghoshal,Hindi,Classical,2021,Neutral,107,0.9081598888209149
+S541,Ghungroo 2.0,"Arijit Singh, Shilpa Rao",Hindi,Dance,2022,Energetic,110,0.8750097968558239
+S542,Despacito,Luis Fonsi ft. Daddy Yankee,English,Reggaeton,2020,Neutral,149,0.8399638360117261
+S543,rockstar - Live,Post Malone ft. 21 Savage,English,Hip-Hop,2019,Neutral,130,0.5223204901622864
+S544,Nashe Si Chadh Gayi (Reprise),Arijit Singh,Hindi,Dance,2017,Energetic,125,0.8456591874596888
+S545,Tera Ban Jaunga 2.0,"Tulsi Kumar, Akhil Sachdeva",Hindi,Romantic,2017,Neutral,63,0.5117006044797232
+S546,Ghar More Pardesiya,Shreya Ghoshal,Hindi,Classical,2021,Neutral,85,0.7100626174171004
+S547,Closer - Acoustic,The Chainsmokers ft. Halsey,English,Pop,2019,Energetic,141,0.7168294059149504
+S548,"thank u, next",Ariana Grande,English,Pop,2021,Energetic,78,0.7399422375423582
+S549,Ae Dil Hai Mushkil - Live,Arijit Singh,Hindi,Romantic,2017,Neutral,94,0.6451367123524981
+S550,Nain Na Jodeen,Arijit Singh,Hindi,Romantic,2020,Neutral,117,0.9009719700066019
+S551,Bad Guy (Remix),Billie Eilish,English,Pop,2022,Energetic,102,0.5031355193333197
+S552,Dheeme Dheeme (Cover),Tony Kakkar,Hindi,Dance,2017,Energetic,117,0.8627839509289146
+S553,Shallow,Lady Gaga & Bradley Cooper,English,Country-Rock,2016,Neutral,109,0.631450995505066
+S554,Bad Guy (Radio Edit),Billie Eilish,English,Pop,2019,Energetic,90,0.6098049705583016
+S555,"thank u, next - Live",Ariana Grande,English,Pop,2016,Energetic,104,0.7241815591014399
+S556,Apna Time Aayega - Unplugged,Ranveer Singh,Hindi,Hip-Hop,2019,Neutral,142,0.5241109880085021
+S557,Señorita - Acoustic,Shawn Mendes & Camila Cabello,English,Pop,2020,Energetic,127,0.6520590468060729
+S558,Nashe Si Chadh Gayi (Cover),Arijit Singh,Hindi,Dance,2016,Energetic,105,0.575372858035872
+S559,Circles,Post Malone,English,Pop,2022,Energetic,140,0.6369901178250708
+S560,O Saathi (Reprise),Atif Aslam,Hindi,Romantic,2020,Neutral,82,0.8820365725467395
+S561,Leja Re - Unplugged,Dhvani Bhanushali,Hindi,Romantic,2020,Neutral,107,0.8975316004545801
+S562,Perfect - Acoustic,Ed Sheeran,English,Pop,2020,Energetic,97,0.9614855153920918
+S563,Nain Na Jodeen - Unplugged,Arijit Singh,Hindi,Romantic,2020,Neutral,139,0.5954004174302889
+S564,Proper Patola - Live,"Diljit Dosanjh, Badshah",Hindi,Dance,2021,Energetic,66,0.5291368611958477
+S565,God's Plan,Drake,English,Hip-Hop,2016,Neutral,81,0.9534898878106499
+S566,Memories ft. New Artist,Maroon 5,English,Pop,2018,Energetic,112,0.8392138300904761
+S567,Bad Guy (Radio Edit),Billie Eilish,English,Pop,2022,Energetic,130,0.6897124545108648
+S568,Apna Time Aayega (Cover),Ranveer Singh,Hindi,Hip-Hop,2020,Neutral,137,0.5501570507427055
+S569,Hello,Adele,English,Soul,2014,Neutral,138,0.5511933061079718
+S570,Kudiye Ni - Live,Aparshakti Khurana,Hindi,Dance,2019,Energetic,93,0.8062913691992688
+S571,Raabta - Unplugged,Arijit Singh,Hindi,Romantic,2017,Neutral,118,0.8359501109168537
+S572,Love Yourself,Justin Bieber,English,Pop,2014,Energetic,90,0.835577845430314
+S573,Someone You Loved ft. New Artist,Lewis Capaldi,English,Pop,2019,Energetic,115,0.7012932563758189
+S574,Tum Hi Ho,Arijit Singh,Hindi,Romantic,2014,Neutral,60,0.6268601202959551
+S575,Shallow ft. New Artist,Lady Gaga & Bradley Cooper,English,Country-Rock,2021,Neutral,100,0.7521519077257952
+S576,Don't Start Now - Live,Dua Lipa,English,Disco-Pop,2021,Energetic,149,0.5716708371201178
+S577,Coca Cola 2.0,"Tony Kakkar, Neha Kakkar",Hindi,Dance,2022,Energetic,83,0.6083358995542271
+S578,Nashe Si Chadh Gayi,Arijit Singh,Hindi,Dance,2015,Energetic,149,0.9546033507245217
+S579,Blinding Lights - Live,The Weeknd,English,Synth-pop,2021,Energetic,63,0.6532535132392905
+S580,Ghar More Pardesiya - Live,Shreya Ghoshal,Hindi,Classical,2022,Neutral,72,0.8765987557155979
+S581,rockstar - Acoustic,Post Malone ft. 21 Savage,English,Hip-Hop,2018,Neutral,80,0.5489063697786912
+S582,Tujhe Kitna Chahne Lage (Remix),Arijit Singh,Hindi,Romantic,2020,Neutral,129,0.9327631925923516
+S583,Despacito - Live,Luis Fonsi ft. Daddy Yankee,English,Reggaeton,2019,Neutral,117,0.5131271126454432
+S584,rockstar - Acoustic,Post Malone ft. 21 Savage,English,Hip-Hop,2019,Neutral,86,0.6470606123341522
+S585,Tum Hi Ho (Reprise),Arijit Singh,Hindi,Romantic,2013,Neutral,105,0.5848477308352686
+S586,Prem Ratan Dhan Payo (Reprise),Palak Muchhal,Hindi,DanceRomantic,2017,Energetic,84,0.8204090509057123
+S587,Thinking Out Loud (Radio Edit),Ed Sheeran,English,Soul,2012,Neutral,147,0.7120274751717186
+S588,Dheeme Dheeme 2.0,Tony Kakkar,Hindi,Dance,2019,Energetic,117,0.6757787447460168
+S589,Proper Patola (Cover),"Diljit Dosanjh, Badshah",Hindi,Dance,2016,Energetic,83,0.5970481909806434
+S590,Thinking Out Loud,Ed Sheeran,English,Soul,2016,Neutral,63,0.7993994582162105
+S591,Closer,The Chainsmokers ft. Halsey,English,Pop,2015,Energetic,95,0.6288974260527744
+S592,Nain Na Jodeen,Arijit Singh,Hindi,Romantic,2019,Neutral,71,0.8175800187719946
+S593,Gerua,Arijit Singh,Hindi,Romantic,2017,Neutral,60,0.7742769316255004
+S594,O Saathi,Atif Aslam,Hindi,Romantic,2021,Neutral,133,0.6528251194435644
+S595,Tujhe Kitna Chahne Lage,Arijit Singh,Hindi,Romantic,2021,Neutral,117,0.8128936823007358
+S596,Apna Time Aayega - Unplugged,Ranveer Singh,Hindi,Hip-Hop,2019,Neutral,131,0.8628071160415449
+S597,Lucid Dreams,Juice WRLD,English,Hip-Hop,2016,Neutral,135,0.6869731326280557
+S598,Old Town Road ft. New Artist,Lil Nas X ft. Billy Ray Cyrus,English,Country-Rap,2021,Neutral,107,0.6355868119671375
+S599,Kar Gayi Chull,"Badshah, Fazilpuria",Hindi,Dance,2017,Energetic,114,0.8714121080171419
+S600,Tera Ban Jaunga,"Tulsi Kumar, Akhil Sachdeva",Hindi,Romantic,2022,Neutral,99,0.6910241016730453
+S601,Paniyon Sa - Unplugged,Atif Aslam,Hindi,Romantic,2018,Neutral,116,0.5651551577530629
+S602,havana (Radio Edit),Camila Cabello ft. Young Thug,English,Pop,2020,Energetic,112,0.7721094538631108
+S603,Uptown Funk,Mark Ronson ft. Bruno Mars,English,Funk,2013,Neutral,113,0.6907514778042539
+S604,Shallow ft. New Artist,Lady Gaga & Bradley Cooper,English,Country-Rock,2016,Neutral,121,0.9675149663971363
+S605,Nain Na Jodeen,Arijit Singh,Hindi,Romantic,2019,Neutral,83,0.7355079749608846
+S606,Dance Monkey - Live,Tones and I,English,Dance-pop,2022,Energetic,122,0.7010009921407812
+S607,Kamariya,Darshan Raval,Hindi,Dance,2016,Energetic,63,0.6450450333140961
+S608,Hello (Remix),Adele,English,Soul,2018,Neutral,128,0.9461216906975999
+S609,High Hopes (Radio Edit),Panic! At The Disco,English,Pop,2019,Energetic,109,0.6373695881301096
+S610,Duniyaa 2.0,"Akhil, Dhvani Bhanushali",Hindi,Romantic,2022,Neutral,148,0.8873955917476041
+S611,Ghungroo (Cover),"Arijit Singh, Shilpa Rao",Hindi,Dance,2020,Energetic,120,0.5018292828528061
+S612,Tera Ban Jaunga 2.0,"Tulsi Kumar, Akhil Sachdeva",Hindi,Romantic,2019,Neutral,145,0.5521193129536867
+S613,Prem Ratan Dhan Payo (Reprise),Palak Muchhal,Hindi,DanceRomantic,2013,Energetic,134,0.7242056031113587
+S614,Shape of You,Ed Sheeran,English,Pop,2020,Energetic,61,0.6675460323316479
+S615,Kalank Title Track - Unplugged,Arijit Singh,Hindi,Romantic,2021,Neutral,100,0.9533788163656189
+S616,Gerua (Reprise),Arijit Singh,Hindi,Romantic,2017,Neutral,125,0.8370235134418506
+S617,Tum Hi Ho,Arijit Singh,Hindi,Romantic,2014,Neutral,84,0.5164050332283121
+S618,Prem Ratan Dhan Payo (Cover),Palak Muchhal,Hindi,DanceRomantic,2018,Energetic,99,0.5356084257648701
+S619,High Hopes (Remix),Panic! At The Disco,English,Pop,2017,Energetic,135,0.954331851206379
+S620,Kar Gayi Chull,"Badshah, Fazilpuria",Hindi,Dance,2016,Energetic,123,0.9789066663034103
+S621,Dheeme Dheeme (Cover),Tony Kakkar,Hindi,Dance,2017,Energetic,111,0.7079654118375404
+S622,Old Town Road ft. New Artist,Lil Nas X ft. Billy Ray Cyrus,English,Country-Rap,2018,Neutral,67,0.7362274544311818
+S623,Watermelon Sugar (Extended),Harry Styles,English,Pop rock,2019,Energetic,86,0.5681052951121257
+S624,Someone You Loved (Remix),Lewis Capaldi,English,Pop,2020,Energetic,129,0.9525545230139071
+S625,One Dance ft. New Artist,Drake ft. Wizkid & Kyla,English,Dancehall,2015,Energetic,105,0.7134796321377487
+S626,Shallow - Acoustic,Lady Gaga & Bradley Cooper,English,Country-Rock,2016,Neutral,114,0.7696552341825533
+S627,7 Rings,Ariana Grande,English,Pop,2018,Energetic,108,0.6663799414175684
+S628,Shape of You - Live,Ed Sheeran,English,Pop,2016,Energetic,124,0.6402711344742799
+S629,Tera Ban Jaunga,"Tulsi Kumar, Akhil Sachdeva",Hindi,Romantic,2021,Neutral,68,0.8885454266519905
+S630,Tum Hi Ho,Arijit Singh,Hindi,Romantic,2014,Neutral,100,0.7080927211859148
+S631,Leja Re (Reprise),Dhvani Bhanushali,Hindi,Romantic,2021,Neutral,61,0.7540900209930557
+S632,Leja Re (Reprise),Dhvani Bhanushali,Hindi,Romantic,2016,Neutral,116,0.544078586297693
+S633,Sicko Mode (Extended),Travis Scott,English,Hip-Hop,2021,Neutral,67,0.6423480188264614
+S634,Watermelon Sugar,Harry Styles,English,Pop rock,2021,Energetic,121,0.8332078380844885
+S635,Gerua,Arijit Singh,Hindi,Romantic,2018,Neutral,114,0.8038447006970882
+S636,Dance Monkey,Tones and I,English,Dance-pop,2017,Energetic,100,0.5568300409157066
+S637,Someone You Loved (Radio Edit),Lewis Capaldi,English,Pop,2019,Energetic,129,0.6684283973134238
+S638,Proper Patola - Live,"Diljit Dosanjh, Badshah",Hindi,Dance,2021,Energetic,114,0.9609284743091726
+S639,Tera Ban Jaunga (Remix),"Tulsi Kumar, Akhil Sachdeva",Hindi,Romantic,2018,Neutral,89,0.5200153524819046
+S640,Dilbar (Reprise),Neha Kakkar,Hindi,Dance,2016,Energetic,135,0.6066229266214707
+S641,Proper Patola,"Diljit Dosanjh, Badshah",Hindi,Dance,2019,Energetic,63,0.7453386924183064
+S642,Watermelon Sugar ft. New Artist,Harry Styles,English,Pop rock,2019,Energetic,125,0.7640440262510917
+S643,Love Yourself (Remix),Justin Bieber,English,Pop,2018,Energetic,82,0.9779805549386886
+S644,Someone You Loved (Extended),Lewis Capaldi,English,Pop,2017,Energetic,114,0.809794207739376
+S645,Dilbar (Cover),Neha Kakkar,Hindi,Dance,2020,Energetic,63,0.7352233398977771
+S646,Kudiye Ni,Aparshakti Khurana,Hindi,Dance,2022,Energetic,131,0.9331299869276892
+S647,Sicko Mode - Acoustic,Travis Scott,English,Hip-Hop,2017,Neutral,136,0.635552046949326
+S648,rockstar (Remix),Post Malone ft. 21 Savage,English,Hip-Hop,2018,Neutral,62,0.7082009059472474
+S649,Tum Hi Ho,Arijit Singh,Hindi,Romantic,2014,Neutral,142,0.8701914367050567
+S650,One Dance (Radio Edit),Drake ft. Wizkid & Kyla,English,Dancehall,2018,Energetic,98,0.750438804383065
+S651,One Dance - Live,Drake ft. Wizkid & Kyla,English,Dancehall,2014,Energetic,88,0.5428084406452165
+S652,God's Plan,Drake,English,Hip-Hop,2020,Neutral,129,0.9681778062898472
+S653,Apna Time Aayega (Cover),Ranveer Singh,Hindi,Hip-Hop,2020,Neutral,103,0.8822579832472208
+S654,Ghar More Pardesiya 2.0,Shreya Ghoshal,Hindi,Classical,2017,Neutral,145,0.7264968542925814
+S655,Bekhayali,Sachet Tandon,Hindi,Sad,2018,Melancholy,71,0.6365213058216289
+S656,Paniyon Sa (Remix),Atif Aslam,Hindi,Romantic,2018,Neutral,73,0.9505211015010451
+S657,Watermelon Sugar (Extended),Harry Styles,English,Pop rock,2019,Energetic,137,0.8589458192081222
+S658,Ghar More Pardesiya 2.0,Shreya Ghoshal,Hindi,Classical,2018,Neutral,63,0.714158586353034
+S659,O Saathi (Remix),Atif Aslam,Hindi,Romantic,2016,Neutral,147,0.5503492975300881
+S660,Tujhe Kitna Chahne Lage,Arijit Singh,Hindi,Romantic,2022,Neutral,106,0.736915406703183
+S661,Someone You Loved ft. New Artist,Lewis Capaldi,English,Pop,2017,Energetic,125,0.6731795052439105
+S662,Shallow ft. New Artist,Lady Gaga & Bradley Cooper,English,Country-Rock,2020,Neutral,81,0.5456848685064883
+S663,Watermelon Sugar (Remix),Harry Styles,English,Pop rock,2019,Energetic,88,0.9409449802427584
+S664,Don't Start Now,Dua Lipa,English,Disco-Pop,2020,Energetic,140,0.5588862593857991
+S665,O Saathi,Atif Aslam,Hindi,Romantic,2020,Neutral,111,0.9250493914285363
+S666,Raabta - Unplugged,Arijit Singh,Hindi,Romantic,2015,Neutral,83,0.9417525009408355
+S667,Ghar More Pardesiya,Shreya Ghoshal,Hindi,Classical,2022,Neutral,66,0.6549297754497432
+S668,Despacito,Luis Fonsi ft. Daddy Yankee,English,Reggaeton,2015,Neutral,148,0.9042467078844336
+S669,Hello,Adele,English,Soul,2016,Neutral,79,0.8283853052914842
+S670,Ghar More Pardesiya (Cover),Shreya Ghoshal,Hindi,Classical,2022,Neutral,108,0.6947988110264041
+S671,7 Rings - Acoustic,Ariana Grande,English,Pop,2020,Energetic,127,0.5685883129765403
+S672,Nain Na Jodeen,Arijit Singh,Hindi,Romantic,2021,Neutral,107,0.7632542838062859
+S673,Shape of You (Radio Edit),Ed Sheeran,English,Pop,2017,Energetic,92,0.945611724621153
+S674,"thank u, next - Live",Ariana Grande,English,Pop,2020,Energetic,80,0.855335979180865
+S675,Bohemian Rhapsody - Acoustic,Queen,English,Rock,2016,Neutral,61,0.8596410166085697
+S676,Kalank Title Track (Reprise),Arijit Singh,Hindi,Romantic,2017,Neutral,97,0.5829747471126244
+S677,Watermelon Sugar - Acoustic,Harry Styles,English,Pop rock,2021,Energetic,85,0.8461505584015966
+S678,Memories - Acoustic,Maroon 5,English,Pop,2019,Energetic,65,0.5119258818819323
+S679,Watermelon Sugar,Harry Styles,English,Pop rock,2023,Energetic,87,0.5049524088059152
+S680,Duniyaa,"Akhil, Dhvani Bhanushali",Hindi,Romantic,2017,Neutral,111,0.6395390176109061
+S681,Apna Time Aayega,Ranveer Singh,Hindi,Hip-Hop,2019,Neutral,120,0.8026777583355118
+S682,Prem Ratan Dhan Payo (Reprise),Palak Muchhal,Hindi,DanceRomantic,2017,Energetic,149,0.7011201481316396
+S683,Ae Dil Hai Mushkil 2.0,Arijit Singh,Hindi,Romantic,2019,Neutral,119,0.859612072759594
+S684,Closer ft. New Artist,The Chainsmokers ft. Halsey,English,Pop,2019,Energetic,90,0.5684596373763658
+S685,Sicko Mode,Travis Scott,English,Hip-Hop,2016,Neutral,113,0.8805574030260359
+S686,Old Town Road (Remix),Lil Nas X ft. Billy Ray Cyrus,English,Country-Rap,2017,Neutral,115,0.8982243362936391
+S687,Proper Patola - Live,"Diljit Dosanjh, Badshah",Hindi,Dance,2019,Energetic,147,0.6645938185132547
+S688,Tum Hi Ho,Arijit Singh,Hindi,Romantic,2012,Neutral,144,0.9676790702965817
+S689,Love Yourself - Acoustic,Justin Bieber,English,Pop,2018,Energetic,130,0.8138008293236083
+S690,Lagdi Lahore Di,Guru Randhawa,Hindi,Dance,2022,Energetic,100,0.704992409564829
+S691,Nain Na Jodeen - Live,Arijit Singh,Hindi,Romantic,2021,Neutral,65,0.665924882063933
+S692,Bohemian Rhapsody - Live,Queen,English,Rock,2017,Neutral,87,0.5575127461955592
+S693,Kar Gayi Chull - Live,"Badshah, Fazilpuria",Hindi,Dance,2018,Energetic,121,0.8290379985288945
+S694,Memories ft. New Artist,Maroon 5,English,Pop,2021,Energetic,149,0.9717943449959117
+S695,Sicko Mode - Acoustic,Travis Scott,English,Hip-Hop,2018,Neutral,61,0.8639902899405059
+S696,Closer (Remix),The Chainsmokers ft. Halsey,English,Pop,2019,Energetic,129,0.7559836045796201
+S697,rockstar (Radio Edit),Post Malone ft. 21 Savage,English,Hip-Hop,2016,Neutral,64,0.7898202714236541
+S698,Someone You Loved (Remix),Lewis Capaldi,English,Pop,2019,Energetic,91,0.636513847024327
+S699,Perfect,Ed Sheeran,English,Pop,2017,Energetic,77,0.924179470014762
+S700,Shape of You - Live,Ed Sheeran,English,Pop,2017,Energetic,119,0.8845151753328082
+S701,Dheeme Dheeme - Unplugged,Tony Kakkar,Hindi,Dance,2018,Energetic,133,0.9209441848855546
+S702,SAD! (Extended),XXXTENTACION,English,Hip-Hop,2019,Neutral,122,0.8361779147365748
+S703,Kar Gayi Chull (Reprise),"Badshah, Fazilpuria",Hindi,Dance,2016,Energetic,73,0.888149663679859
+S704,Don't Start Now,Dua Lipa,English,Disco-Pop,2021,Energetic,86,0.8718207013858503
+S705,Proper Patola,"Diljit Dosanjh, Badshah",Hindi,Dance,2016,Energetic,137,0.9760333131762671
+S706,Ghar More Pardesiya,Shreya Ghoshal,Hindi,Classical,2017,Neutral,94,0.8363559729630274
+S707,High Hopes (Remix),Panic! At The Disco,English,Pop,2017,Energetic,131,0.6933292263524712
+S708,Channa Mereya - Unplugged,Arijit Singh,Hindi,Sad,2019,Melancholy,107,0.9376603521676412
+S709,Despacito - Live,Luis Fonsi ft. Daddy Yankee,English,Reggaeton,2018,Neutral,122,0.7761516252405278
+S710,Hello,Adele,English,Soul,2014,Neutral,104,0.5341302839667783
+S711,Dance Monkey (Remix),Tones and I,English,Dance-pop,2022,Energetic,129,0.6091834447737855
+S712,Memories (Radio Edit),Maroon 5,English,Pop,2020,Energetic,127,0.7587645075331577
+S713,Vaaste,Dhvani Bhanushali,Hindi,Romantic,2017,Neutral,90,0.831564810229864
+S714,Lagdi Lahore Di 2.0,Guru Randhawa,Hindi,Dance,2019,Energetic,88,0.7482714101054568
+S715,Ghar More Pardesiya,Shreya Ghoshal,Hindi,Classical,2022,Neutral,123,0.5293320477462087
+S716,Teri Mitti,B Praak,Hindi,Patriotic,2017,Neutral,128,0.5600413916326871
+S717,Shape of You,Ed Sheeran,English,Pop,2016,Energetic,81,0.8996665218949549
+S718,Dilbar 2.0,Neha Kakkar,Hindi,Dance,2017,Energetic,137,0.9727387823273154
+S719,Don't Start Now (Remix),Dua Lipa,English,Disco-Pop,2021,Energetic,113,0.9487049295490554
+S720,Circles ft. New Artist,Post Malone,English,Pop,2020,Energetic,141,0.8036093628509071
+S721,Someone You Loved,Lewis Capaldi,English,Pop,2017,Energetic,114,0.9400033953644014
+S722,Bekhayali (Remix),Sachet Tandon,Hindi,Sad,2022,Melancholy,79,0.7899983506183079
+S723,O Saathi 2.0,Atif Aslam,Hindi,Romantic,2016,Neutral,118,0.9039410795170284
+S724,Prem Ratan Dhan Payo,Palak Muchhal,Hindi,DanceRomantic,2013,Energetic,86,0.6451244903757106
+S725,Bohemian Rhapsody,Queen,English,Rock,2019,Neutral,150,0.5452198143008136
+S726,Kar Gayi Chull (Cover),"Badshah, Fazilpuria",Hindi,Dance,2017,Energetic,81,0.5277879490878522
+S727,Apna Time Aayega (Reprise),Ranveer Singh,Hindi,Hip-Hop,2018,Neutral,120,0.8989216792258771
+S728,High Hopes - Live,Panic! At The Disco,English,Pop,2020,Energetic,84,0.9324219817825729
+S729,Despacito (Remix),Luis Fonsi ft. Daddy Yankee,English,Reggaeton,2017,Neutral,131,0.9475499320444715
+S730,Dance Monkey,Tones and I,English,Dance-pop,2018,Energetic,123,0.7915563662814811
+S731,SAD! (Remix),XXXTENTACION,English,Hip-Hop,2018,Neutral,141,0.785773798798288
+S732,O Saathi 2.0,Atif Aslam,Hindi,Romantic,2016,Neutral,147,0.7248468953557123
+S733,Señorita,Shawn Mendes & Camila Cabello,English,Pop,2017,Energetic,102,0.5463618013430658
+S734,Dheeme Dheeme,Tony Kakkar,Hindi,Dance,2021,Energetic,71,0.5159790316743772
+S735,Dance Monkey,Tones and I,English,Dance-pop,2020,Energetic,92,0.605190321831938
+S736,Ghungroo (Reprise),"Arijit Singh, Shilpa Rao",Hindi,Dance,2021,Energetic,119,0.9168872446900489
+S737,Memories,Maroon 5,English,Pop,2019,Energetic,69,0.6326642696646522
+S738,Ghar More Pardesiya - Live,Shreya Ghoshal,Hindi,Classical,2020,Neutral,144,0.5929865432324068
+S739,havana (Extended),Camila Cabello ft. Young Thug,English,Pop,2020,Energetic,134,0.6284954494524513
+S740,Watermelon Sugar,Harry Styles,English,Pop rock,2022,Energetic,103,0.7108768895482418
+S741,Proper Patola - Live,"Diljit Dosanjh, Badshah",Hindi,Dance,2017,Energetic,145,0.6323061333704529
+S742,rockstar,Post Malone ft. 21 Savage,English,Hip-Hop,2015,Neutral,82,0.7700538049637753
+S743,Sicko Mode (Extended),Travis Scott,English,Hip-Hop,2021,Neutral,95,0.5986452268217247
+S744,Channa Mereya 2.0,Arijit Singh,Hindi,Sad,2016,Melancholy,71,0.7966173293145925
+S745,Bekhayali (Cover),Sachet Tandon,Hindi,Sad,2021,Melancholy,86,0.9200400846053935
+S746,"thank u, next (Remix)",Ariana Grande,English,Pop,2020,Energetic,102,0.6606477332795604
+S747,Circles (Radio Edit),Post Malone,English,Pop,2022,Energetic,140,0.8298718435164674
+S748,Tujhe Kitna Chahne Lage,Arijit Singh,Hindi,Romantic,2021,Neutral,147,0.643471359002075
+S749,Paniyon Sa,Atif Aslam,Hindi,Romantic,2019,Neutral,105,0.8589984590908111
+S750,Coca Cola 2.0,"Tony Kakkar, Neha Kakkar",Hindi,Dance,2017,Energetic,69,0.7642769388626203
+S751,SAD! - Acoustic,XXXTENTACION,English,Hip-Hop,2019,Neutral,131,0.8216874262563503
+S752,Teri Mitti - Live,B Praak,Hindi,Patriotic,2018,Neutral,104,0.9192994261531428
+S753,Kudiye Ni (Cover),Aparshakti Khurana,Hindi,Dance,2022,Energetic,61,0.696661661019018
+S754,"thank u, next",Ariana Grande,English,Pop,2016,Energetic,134,0.7437042485116667
+S755,Hello,Adele,English,Soul,2013,Neutral,134,0.8847304788854078
+S756,One Dance (Remix),Drake ft. Wizkid & Kyla,English,Dancehall,2015,Energetic,79,0.7823634063515166
+S757,Dilbar (Remix),Neha Kakkar,Hindi,Dance,2016,Energetic,122,0.879642560478991
+S758,Uptown Funk - Live,Mark Ronson ft. Bruno Mars,English,Funk,2015,Neutral,129,0.5070814603392381
+S759,rockstar ft. New Artist,Post Malone ft. 21 Savage,English,Hip-Hop,2017,Neutral,103,0.7109724359269977
+S760,Nain Na Jodeen,Arijit Singh,Hindi,Romantic,2018,Neutral,80,0.6047879193284645
+S761,One Dance,Drake ft. Wizkid & Kyla,English,Dancehall,2018,Energetic,90,0.6762203223438162
+S762,Dheeme Dheeme - Unplugged,Tony Kakkar,Hindi,Dance,2018,Energetic,106,0.5753331965517923
+S763,Dance Monkey,Tones and I,English,Dance-pop,2021,Energetic,65,0.7860749170436373
+S764,Agar Tum Saath Ho (Cover),"Alka Yagnik, Arijit Singh",Hindi,Sad,2017,Melancholy,116,0.6597818912948861
+S765,Kudiye Ni,Aparshakti Khurana,Hindi,Dance,2021,Energetic,73,0.6266969157447805
+S766,Teri Mitti (Reprise),B Praak,Hindi,Patriotic,2020,Neutral,69,0.9635341085078569
+S767,Apna Time Aayega - Live,Ranveer Singh,Hindi,Hip-Hop,2020,Neutral,70,0.6073869902431871
+S768,Perfect,Ed Sheeran,English,Pop,2016,Energetic,80,0.5941539685657977
+S769,Bad Guy (Extended),Billie Eilish,English,Pop,2020,Energetic,110,0.5377966732552895
+S770,Paniyon Sa,Atif Aslam,Hindi,Romantic,2018,Neutral,118,0.7298262626410509
+S771,Kudiye Ni - Unplugged,Aparshakti Khurana,Hindi,Dance,2021,Energetic,113,0.5481394978204729
+S772,Leja Re (Remix),Dhvani Bhanushali,Hindi,Romantic,2020,Neutral,82,0.9666608565889956
+S773,Shallow,Lady Gaga & Bradley Cooper,English,Country-Rock,2017,Neutral,116,0.9339485709978108
+S774,Kalank Title Track,Arijit Singh,Hindi,Romantic,2021,Neutral,147,0.7217241441065911
+S775,Gerua,Arijit Singh,Hindi,Romantic,2015,Neutral,67,0.9285595410840868
+S776,Old Town Road,Lil Nas X ft. Billy Ray Cyrus,English,Country-Rap,2022,Neutral,120,0.806602700943442
+S777,Kar Gayi Chull,"Badshah, Fazilpuria",Hindi,Dance,2018,Energetic,74,0.9628772013987287
+S778,God's Plan ft. New Artist,Drake,English,Hip-Hop,2017,Neutral,85,0.6354469829166751
+S779,Gerua (Remix),Arijit Singh,Hindi,Romantic,2016,Neutral,110,0.7750791376734549
+S780,Memories,Maroon 5,English,Pop,2020,Energetic,103,0.7960941275266764
+S781,Apna Time Aayega - Live,Ranveer Singh,Hindi,Hip-Hop,2022,Neutral,118,0.5588633210581652
+S782,Ae Dil Hai Mushkil,Arijit Singh,Hindi,Romantic,2014,Neutral,80,0.7456787295752996
+S783,Lagdi Lahore Di,Guru Randhawa,Hindi,Dance,2018,Energetic,149,0.9246750927934015
+S784,Uptown Funk,Mark Ronson ft. Bruno Mars,English,Funk,2015,Neutral,107,0.9221638663838527
+S785,High Hopes,Panic! At The Disco,English,Pop,2017,Energetic,81,0.6198971572628988
+S786,Paniyon Sa - Live,Atif Aslam,Hindi,Romantic,2017,Neutral,97,0.6363912984482304
+S787,Agar Tum Saath Ho - Unplugged,"Alka Yagnik, Arijit Singh",Hindi,Sad,2017,Melancholy,78,0.5062021353916797
+S788,Proper Patola (Remix),"Diljit Dosanjh, Badshah",Hindi,Dance,2018,Energetic,72,0.504180040973044
+S789,Nashe Si Chadh Gayi - Live,Arijit Singh,Hindi,Dance,2016,Energetic,70,0.5191592647595947
+S790,rockstar (Extended),Post Malone ft. 21 Savage,English,Hip-Hop,2017,Neutral,120,0.6097139491118441
+S791,Don't Start Now,Dua Lipa,English,Disco-Pop,2020,Energetic,92,0.7580170723489197
+S792,Despacito ft. New Artist,Luis Fonsi ft. Daddy Yankee,English,Reggaeton,2019,Neutral,67,0.6045405548096899
+S793,Leja Re - Live,Dhvani Bhanushali,Hindi,Romantic,2016,Neutral,93,0.5801820875380636
+S794,"thank u, next",Ariana Grande,English,Pop,2020,Energetic,84,0.751605595736376
+S795,Uptown Funk,Mark Ronson ft. Bruno Mars,English,Funk,2013,Neutral,122,0.5352270391779539
+S796,Bekhayali - Unplugged,Sachet Tandon,Hindi,Sad,2021,Melancholy,82,0.5784653756407188
+S797,Don't Start Now (Remix),Dua Lipa,English,Disco-Pop,2018,Energetic,139,0.558828560686218
+S798,Leja Re,Dhvani Bhanushali,Hindi,Romantic,2017,Neutral,63,0.7710284101806386
+S799,Ghungroo (Reprise),"Arijit Singh, Shilpa Rao",Hindi,Dance,2020,Energetic,82,0.5958653825269453
+S800,Hello (Radio Edit),Adele,English,Soul,2016,Neutral,81,0.567933876553246
+S801,Shape of You,Ed Sheeran,English,Pop,2015,Energetic,107,0.9337641329120379
+S802,Agar Tum Saath Ho - Live,"Alka Yagnik, Arijit Singh",Hindi,Sad,2013,Melancholy,95,0.873076849247172
+S803,Vaaste - Unplugged,Dhvani Bhanushali,Hindi,Romantic,2020,Neutral,60,0.8249043089467265
+S804,Channa Mereya,Arijit Singh,Hindi,Sad,2015,Melancholy,100,0.5065325522217632
+S805,Uptown Funk,Mark Ronson ft. Bruno Mars,English,Funk,2016,Neutral,62,0.5259677580995742
+S806,Señorita (Extended),Shawn Mendes & Camila Cabello,English,Pop,2022,Energetic,83,0.8656319028524772
+S807,Dheeme Dheeme (Cover),Tony Kakkar,Hindi,Dance,2022,Energetic,110,0.7631437857624439
+S808,Bekhayali (Reprise),Sachet Tandon,Hindi,Sad,2022,Melancholy,68,0.6238395630659092
+S809,Closer (Radio Edit),The Chainsmokers ft. Halsey,English,Pop,2014,Energetic,94,0.964418960382091
+S810,Sicko Mode,Travis Scott,English,Hip-Hop,2019,Neutral,95,0.9563060942764634
+S811,Apna Time Aayega,Ranveer Singh,Hindi,Hip-Hop,2019,Neutral,60,0.9027742133656453
+S812,Raabta 2.0,Arijit Singh,Hindi,Romantic,2017,Neutral,79,0.5235874497932173
+S813,Ghar More Pardesiya,Shreya Ghoshal,Hindi,Classical,2018,Neutral,69,0.6224569120127563
+S814,Kamariya,Darshan Raval,Hindi,Dance,2018,Energetic,71,0.9583694028176067
+S815,Bekhayali (Remix),Sachet Tandon,Hindi,Sad,2020,Melancholy,107,0.9161529764611314
+S816,Thinking Out Loud - Acoustic,Ed Sheeran,English,Soul,2017,Neutral,127,0.8587809221769552
+S817,Kudiye Ni 2.0,Aparshakti Khurana,Hindi,Dance,2018,Energetic,107,0.6042167721530916
+S818,Dheeme Dheeme,Tony Kakkar,Hindi,Dance,2018,Energetic,137,0.502435787011214
+S819,Señorita ft. New Artist,Shawn Mendes & Camila Cabello,English,Pop,2019,Energetic,148,0.5928025667589936
+S820,Kamariya,Darshan Raval,Hindi,Dance,2019,Energetic,97,0.6206898295154644
+S821,Uptown Funk (Remix),Mark Ronson ft. Bruno Mars,English,Funk,2015,Neutral,85,0.7075276644884059
+S822,Ghar More Pardesiya (Cover),Shreya Ghoshal,Hindi,Classical,2020,Neutral,92,0.533834098701719
+S823,Ae Dil Hai Mushkil - Unplugged,Arijit Singh,Hindi,Romantic,2016,Neutral,146,0.6842651171654037
+S824,O Saathi,Atif Aslam,Hindi,Romantic,2018,Neutral,137,0.5587902134839705
+S825,Tujhe Kitna Chahne Lage,Arijit Singh,Hindi,Romantic,2019,Neutral,121,0.634955422381731
+S826,Raabta,Arijit Singh,Hindi,Romantic,2016,Neutral,102,0.774571286208078
+S827,Tera Ban Jaunga,"Tulsi Kumar, Akhil Sachdeva",Hindi,Romantic,2021,Neutral,62,0.6288150592769636
+S828,Closer,The Chainsmokers ft. Halsey,English,Pop,2014,Energetic,118,0.6936853133324931
+S829,Circles (Remix),Post Malone,English,Pop,2020,Energetic,67,0.5280081659734318
+S830,Closer (Radio Edit),The Chainsmokers ft. Halsey,English,Pop,2017,Energetic,141,0.665364793393726
+S831,Nain Na Jodeen 2.0,Arijit Singh,Hindi,Romantic,2019,Neutral,138,0.6374338974582344
+S832,Tujhe Kitna Chahne Lage (Reprise),Arijit Singh,Hindi,Romantic,2021,Neutral,73,0.9638213465534392
+S833,Thinking Out Loud (Remix),Ed Sheeran,English,Soul,2016,Neutral,68,0.7203030269451935
+S834,Blinding Lights (Radio Edit),The Weeknd,English,Synth-pop,2022,Energetic,83,0.5902830481758373
+S835,Hello,Adele,English,Soul,2016,Neutral,93,0.5778997412623498
+S836,One Dance,Drake ft. Wizkid & Kyla,English,Dancehall,2017,Energetic,130,0.7408362451157766
+S837,Raabta - Live,Arijit Singh,Hindi,Romantic,2019,Neutral,133,0.7948047522743897
+S838,rockstar ft. New Artist,Post Malone ft. 21 Savage,English,Hip-Hop,2016,Neutral,133,0.5335331975242411
+S839,Tujhe Kitna Chahne Lage 2.0,Arijit Singh,Hindi,Romantic,2020,Neutral,113,0.7650911265073548
+S840,Agar Tum Saath Ho (Cover),"Alka Yagnik, Arijit Singh",Hindi,Sad,2014,Melancholy,121,0.7098083076328066
+S841,Thinking Out Loud - Live,Ed Sheeran,English,Soul,2015,Neutral,136,0.5443865947862597
+S842,Perfect,Ed Sheeran,English,Pop,2019,Energetic,95,0.8558030673932706
+S843,"thank u, next",Ariana Grande,English,Pop,2017,Energetic,94,0.5292424587854785
+S844,Apna Time Aayega - Live,Ranveer Singh,Hindi,Hip-Hop,2022,Neutral,129,0.9090610269179175
+S845,Watermelon Sugar (Radio Edit),Harry Styles,English,Pop rock,2022,Energetic,109,0.7627515513918846
+S846,Lagdi Lahore Di (Cover),Guru Randhawa,Hindi,Dance,2020,Energetic,68,0.5645367472800602
+S847,Leja Re - Live,Dhvani Bhanushali,Hindi,Romantic,2019,Neutral,110,0.9452602982449197
+S848,Lagdi Lahore Di,Guru Randhawa,Hindi,Dance,2017,Energetic,132,0.8602696308157193
+S849,Kalank Title Track 2.0,Arijit Singh,Hindi,Romantic,2021,Neutral,86,0.7998432206427066
+S850,Someone You Loved,Lewis Capaldi,English,Pop,2020,Energetic,125,0.9071926508341311
+S851,"thank u, next",Ariana Grande,English,Pop,2021,Energetic,135,0.8819154447916637
+S852,Coca Cola 2.0,"Tony Kakkar, Neha Kakkar",Hindi,Dance,2017,Energetic,138,0.8945898146850233
+S853,Proper Patola,"Diljit Dosanjh, Badshah",Hindi,Dance,2019,Energetic,61,0.538204988346704
+S854,Kudiye Ni - Unplugged,Aparshakti Khurana,Hindi,Dance,2021,Energetic,101,0.5917612827454432
+S855,Señorita - Acoustic,Shawn Mendes & Camila Cabello,English,Pop,2017,Energetic,111,0.5122607750738695
+S856,Despacito,Luis Fonsi ft. Daddy Yankee,English,Reggaeton,2016,Neutral,68,0.8456000501514097
+S857,Duniyaa - Unplugged,"Akhil, Dhvani Bhanushali",Hindi,Romantic,2022,Neutral,92,0.9182514754391282
+S858,Bekhayali (Reprise),Sachet Tandon,Hindi,Sad,2021,Melancholy,61,0.9107323158066738
+S859,Tum Hi Ho (Reprise),Arijit Singh,Hindi,Romantic,2013,Neutral,95,0.7152044006048994
+S860,Watermelon Sugar - Acoustic,Harry Styles,English,Pop rock,2019,Energetic,116,0.7039889329348614
+S861,Nain Na Jodeen 2.0,Arijit Singh,Hindi,Romantic,2021,Neutral,110,0.6370578503246791
+S862,Don't Start Now (Extended),Dua Lipa,English,Disco-Pop,2022,Energetic,77,0.5752674153022408
+S863,Coca Cola,"Tony Kakkar, Neha Kakkar",Hindi,Dance,2020,Energetic,117,0.8341589064441515
+S864,One Dance (Extended),Drake ft. Wizkid & Kyla,English,Dancehall,2015,Energetic,99,0.5936160884220131
+S865,Gerua (Remix),Arijit Singh,Hindi,Romantic,2013,Neutral,72,0.5048234490765033
+S866,Sicko Mode (Extended),Travis Scott,English,Hip-Hop,2018,Neutral,134,0.6541690574230967
+S867,Shape of You,Ed Sheeran,English,Pop,2020,Energetic,75,0.9476891675426729
+S868,SAD! ft. New Artist,XXXTENTACION,English,Hip-Hop,2019,Neutral,136,0.7557025291067032
+S869,"thank u, next - Live",Ariana Grande,English,Pop,2018,Energetic,78,0.516313094529319
+S870,Nashe Si Chadh Gayi - Live,Arijit Singh,Hindi,Dance,2017,Energetic,115,0.9616310916277356
+S871,Kar Gayi Chull - Live,"Badshah, Fazilpuria",Hindi,Dance,2019,Energetic,138,0.7598880381972027
+S872,Proper Patola,"Diljit Dosanjh, Badshah",Hindi,Dance,2017,Energetic,113,0.6988077505500906
+S873,Paniyon Sa 2.0,Atif Aslam,Hindi,Romantic,2019,Neutral,132,0.9116812361531736
+S874,Uptown Funk (Radio Edit),Mark Ronson ft. Bruno Mars,English,Funk,2013,Neutral,69,0.968003120318219
+S875,Señorita,Shawn Mendes & Camila Cabello,English,Pop,2019,Energetic,131,0.8635611909292324
+S876,Memories - Acoustic,Maroon 5,English,Pop,2022,Energetic,118,0.7764106512905548
+S877,Memories (Radio Edit),Maroon 5,English,Pop,2021,Energetic,119,0.7413090533663046
+S878,Ghungroo 2.0,"Arijit Singh, Shilpa Rao",Hindi,Dance,2020,Energetic,81,0.6083267428541932
+S879,Memories (Extended),Maroon 5,English,Pop,2021,Energetic,140,0.678662754267892
+S880,One Dance - Live,Drake ft. Wizkid & Kyla,English,Dancehall,2018,Energetic,92,0.5081885399044066
+S881,Nain Na Jodeen - Live,Arijit Singh,Hindi,Romantic,2019,Neutral,119,0.7724053453431102
+S882,Watermelon Sugar (Remix),Harry Styles,English,Pop rock,2022,Energetic,124,0.5394405976647885
+S883,Nashe Si Chadh Gayi 2.0,Arijit Singh,Hindi,Dance,2014,Energetic,79,0.5588209862798592
+S884,Dilbar (Remix),Neha Kakkar,Hindi,Dance,2018,Energetic,146,0.5925875658133213
+S885,Ae Dil Hai Mushkil,Arijit Singh,Hindi,Romantic,2017,Neutral,150,0.81827505198231
+S886,Coca Cola (Cover),"Tony Kakkar, Neha Kakkar",Hindi,Dance,2022,Energetic,81,0.5627190506260767
+S887,Despacito (Extended),Luis Fonsi ft. Daddy Yankee,English,Reggaeton,2019,Neutral,150,0.587021914657668
+S888,Gerua,Arijit Singh,Hindi,Romantic,2018,Neutral,86,0.9680558210961334
+S889,Old Town Road - Acoustic,Lil Nas X ft. Billy Ray Cyrus,English,Country-Rap,2022,Neutral,144,0.925752483769168
+S890,Memories - Live,Maroon 5,English,Pop,2017,Energetic,136,0.564971865428728
+S891,Shallow - Live,Lady Gaga & Bradley Cooper,English,Country-Rock,2016,Neutral,69,0.5014995993926825
+S892,Teri Mitti,B Praak,Hindi,Patriotic,2018,Neutral,95,0.7982692676898635
+S893,High Hopes,Panic! At The Disco,English,Pop,2020,Energetic,125,0.6660295082934574
+S894,O Saathi 2.0,Atif Aslam,Hindi,Romantic,2017,Neutral,127,0.701501197869923
+S895,Bad Guy,Billie Eilish,English,Pop,2021,Energetic,124,0.865650584188151
+S896,havana,Camila Cabello ft. Young Thug,English,Pop,2017,Energetic,149,0.7600807745654563
+S897,Raabta,Arijit Singh,Hindi,Romantic,2019,Neutral,79,0.957378877546921
+S898,Old Town Road - Live,Lil Nas X ft. Billy Ray Cyrus,English,Country-Rap,2020,Neutral,137,0.8254065517056195
+S899,Apna Time Aayega (Cover),Ranveer Singh,Hindi,Hip-Hop,2022,Neutral,133,0.9019998513912222
+S900,Closer,The Chainsmokers ft. Halsey,English,Pop,2018,Energetic,86,0.8966332263426999
+S901,Señorita,Shawn Mendes & Camila Cabello,English,Pop,2020,Energetic,111,0.8834782309379179
+S902,Kalank Title Track (Remix),Arijit Singh,Hindi,Romantic,2019,Neutral,119,0.6907439031126885
+S903,Kudiye Ni (Remix),Aparshakti Khurana,Hindi,Dance,2021,Energetic,84,0.7290088669546614
+S904,Closer ft. New Artist,The Chainsmokers ft. Halsey,English,Pop,2015,Energetic,126,0.9644952229908554
+S905,Thinking Out Loud - Acoustic,Ed Sheeran,English,Soul,2016,Neutral,148,0.7433219291687805
+S906,Gerua,Arijit Singh,Hindi,Romantic,2014,Neutral,69,0.5161137789258655
+S907,Someone You Loved - Live,Lewis Capaldi,English,Pop,2022,Energetic,137,0.9643906323367802
+S908,Channa Mereya - Live,Arijit Singh,Hindi,Sad,2014,Melancholy,141,0.5575854666388035
+S909,Don't Start Now,Dua Lipa,English,Disco-Pop,2019,Energetic,103,0.5559899508682608
+S910,Channa Mereya 2.0,Arijit Singh,Hindi,Sad,2017,Melancholy,66,0.8636693033397833
+S911,Tum Hi Ho (Reprise),Arijit Singh,Hindi,Romantic,2013,Neutral,94,0.6650368352132022
+S912,Sicko Mode,Travis Scott,English,Hip-Hop,2018,Neutral,150,0.8555726533750636
+S913,Despacito (Radio Edit),Luis Fonsi ft. Daddy Yankee,English,Reggaeton,2019,Neutral,142,0.6180846485080235
+S914,Bohemian Rhapsody (Radio Edit),Queen,English,Rock,2016,Neutral,102,0.81427990311254
+S915,Closer (Remix),The Chainsmokers ft. Halsey,English,Pop,2018,Energetic,100,0.8756357703913163
+S916,Ghar More Pardesiya,Shreya Ghoshal,Hindi,Classical,2020,Neutral,127,0.8022935277313518
+S917,God's Plan,Drake,English,Hip-Hop,2021,Neutral,76,0.5868925180087773
+S918,Sicko Mode,Travis Scott,English,Hip-Hop,2019,Neutral,128,0.6587596628963315
+S919,Leja Re,Dhvani Bhanushali,Hindi,Romantic,2019,Neutral,107,0.6422207895804304
+S920,Nain Na Jodeen,Arijit Singh,Hindi,Romantic,2018,Neutral,138,0.7644572952383233
+S921,Kar Gayi Chull,"Badshah, Fazilpuria",Hindi,Dance,2019,Energetic,71,0.6894990794581687
+S922,Sicko Mode (Remix),Travis Scott,English,Hip-Hop,2016,Neutral,146,0.5693604531019898
+S923,Lagdi Lahore Di,Guru Randhawa,Hindi,Dance,2018,Energetic,74,0.5166552204180883
+S924,Channa Mereya (Remix),Arijit Singh,Hindi,Sad,2019,Melancholy,110,0.8140114253893086
+S925,Uptown Funk,Mark Ronson ft. Bruno Mars,English,Funk,2015,Neutral,96,0.5883766850617324
+S926,Leja Re,Dhvani Bhanushali,Hindi,Romantic,2016,Neutral,73,0.5626869650299898
+S927,Tera Ban Jaunga (Reprise),"Tulsi Kumar, Akhil Sachdeva",Hindi,Romantic,2018,Neutral,72,0.7345532969950602
+S928,rockstar,Post Malone ft. 21 Savage,English,Hip-Hop,2020,Neutral,71,0.7639417898286016
+S929,Circles,Post Malone,English,Pop,2019,Energetic,75,0.5688647149654547
+S930,Watermelon Sugar ft. New Artist,Harry Styles,English,Pop rock,2023,Energetic,95,0.6882359649216805
+S931,God's Plan,Drake,English,Hip-Hop,2019,Neutral,149,0.5639891804839742
+S932,Sicko Mode - Live,Travis Scott,English,Hip-Hop,2018,Neutral,146,0.688576596755816
+S933,Hello,Adele,English,Soul,2018,Neutral,150,0.6969313245110373
+S934,Kamariya - Unplugged,Darshan Raval,Hindi,Dance,2016,Energetic,116,0.7484106150462067
+S935,Lagdi Lahore Di (Remix),Guru Randhawa,Hindi,Dance,2021,Energetic,141,0.8470470068762004
+S936,Proper Patola,"Diljit Dosanjh, Badshah",Hindi,Dance,2018,Energetic,124,0.7355273691449018
+S937,Channa Mereya (Remix),Arijit Singh,Hindi,Sad,2015,Melancholy,109,0.9753683016446624
+S938,Tujhe Kitna Chahne Lage - Live,Arijit Singh,Hindi,Romantic,2017,Neutral,95,0.832528855904342
+S939,Duniyaa - Live,"Akhil, Dhvani Bhanushali",Hindi,Romantic,2018,Neutral,80,0.9351320326535735
+S940,Kalank Title Track 2.0,Arijit Singh,Hindi,Romantic,2018,Neutral,113,0.7623733451405328
+S941,O Saathi,Atif Aslam,Hindi,Romantic,2020,Neutral,114,0.9572651150141506
+S942,Prem Ratan Dhan Payo 2.0,Palak Muchhal,Hindi,DanceRomantic,2013,Energetic,76,0.7993966866194318
+S943,Closer (Extended),The Chainsmokers ft. Halsey,English,Pop,2016,Energetic,111,0.6434906146350234
+S944,Kudiye Ni - Unplugged,Aparshakti Khurana,Hindi,Dance,2018,Energetic,99,0.6506099736553901
+S945,rockstar,Post Malone ft. 21 Savage,English,Hip-Hop,2017,Neutral,127,0.7918231130370297
+S946,Tum Hi Ho (Remix),Arijit Singh,Hindi,Romantic,2016,Neutral,118,0.579748709497353
+S947,Love Yourself,Justin Bieber,English,Pop,2015,Energetic,116,0.7704597906372338
+S948,O Saathi - Unplugged,Atif Aslam,Hindi,Romantic,2017,Neutral,93,0.8803621917202615
+S949,Prem Ratan Dhan Payo (Cover),Palak Muchhal,Hindi,DanceRomantic,2016,Energetic,83,0.9692889592509892
+S950,Bohemian Rhapsody,Queen,English,Rock,2016,Neutral,70,0.5956241569608006
+S951,Perfect ft. New Artist,Ed Sheeran,English,Pop,2018,Energetic,137,0.6412682334874006
+S952,Uptown Funk (Radio Edit),Mark Ronson ft. Bruno Mars,English,Funk,2014,Neutral,89,0.6937319110126053
+S953,Thinking Out Loud,Ed Sheeran,English,Soul,2014,Neutral,99,0.7960206861844181
+S954,High Hopes (Remix),Panic! At The Disco,English,Pop,2016,Energetic,137,0.9493843007542746
+S955,One Dance (Extended),Drake ft. Wizkid & Kyla,English,Dancehall,2015,Energetic,95,0.8625815883228213
+S956,havana,Camila Cabello ft. Young Thug,English,Pop,2019,Energetic,82,0.9567611660105074
+S957,Ghar More Pardesiya,Shreya Ghoshal,Hindi,Classical,2020,Neutral,101,0.6835369677294578
+S958,Circles,Post Malone,English,Pop,2017,Energetic,81,0.6560787246046933
+S959,Kudiye Ni (Reprise),Aparshakti Khurana,Hindi,Dance,2021,Energetic,148,0.8636101830835681
+S960,Ghungroo (Reprise),"Arijit Singh, Shilpa Rao",Hindi,Dance,2019,Energetic,141,0.6231722989899627
+S961,Agar Tum Saath Ho (Remix),"Alka Yagnik, Arijit Singh",Hindi,Sad,2016,Melancholy,72,0.5563783079326853
+S962,Ae Dil Hai Mushkil - Live,Arijit Singh,Hindi,Romantic,2018,Neutral,125,0.5639893920742808
+S963,Bohemian Rhapsody,Queen,English,Rock,2018,Neutral,121,0.953090179975969
+S964,Duniyaa - Live,"Akhil, Dhvani Bhanushali",Hindi,Romantic,2017,Neutral,99,0.5441837851400987
+S965,Prem Ratan Dhan Payo (Reprise),Palak Muchhal,Hindi,DanceRomantic,2018,Energetic,83,0.9482511831525409
+S966,Hello (Extended),Adele,English,Soul,2014,Neutral,109,0.5085899878501277
+S967,One Dance (Radio Edit),Drake ft. Wizkid & Kyla,English,Dancehall,2018,Energetic,80,0.7954552330396844
+S968,Tujhe Kitna Chahne Lage (Reprise),Arijit Singh,Hindi,Romantic,2018,Neutral,139,0.7135834350949183
+S969,Paniyon Sa,Atif Aslam,Hindi,Romantic,2019,Neutral,66,0.84193759609884
+S970,Kar Gayi Chull (Reprise),"Badshah, Fazilpuria",Hindi,Dance,2018,Energetic,89,0.7322381039441083
+S971,7 Rings,Ariana Grande,English,Pop,2017,Energetic,142,0.5010758153210674
+S972,Tera Ban Jaunga (Remix),"Tulsi Kumar, Akhil Sachdeva",Hindi,Romantic,2021,Neutral,67,0.961080709704752
+S973,Kar Gayi Chull 2.0,"Badshah, Fazilpuria",Hindi,Dance,2014,Energetic,108,0.7804337541241859
+S974,Don't Start Now,Dua Lipa,English,Disco-Pop,2018,Energetic,108,0.736992790807427
+S975,One Dance - Acoustic,Drake ft. Wizkid & Kyla,English,Dancehall,2018,Energetic,107,0.89172904247396
+S976,Despacito,Luis Fonsi ft. Daddy Yankee,English,Reggaeton,2019,Neutral,145,0.9551056141811016
+S977,Nain Na Jodeen - Live,Arijit Singh,Hindi,Romantic,2018,Neutral,138,0.5712357564195625
+S978,Kalank Title Track 2.0,Arijit Singh,Hindi,Romantic,2018,Neutral,77,0.7451617720903152
+S979,Ghar More Pardesiya,Shreya Ghoshal,Hindi,Classical,2019,Neutral,123,0.9582001182947955
+S980,Thinking Out Loud ft. New Artist,Ed Sheeran,English,Soul,2013,Neutral,116,0.892662019190565
+S981,Shallow,Lady Gaga & Bradley Cooper,English,Country-Rock,2016,Neutral,89,0.5364403624546293
+S982,Circles ft. New Artist,Post Malone,English,Pop,2017,Energetic,97,0.5736164011968109
+S983,One Dance (Radio Edit),Drake ft. Wizkid & Kyla,English,Dancehall,2015,Energetic,114,0.5671999864834034
+S984,Kudiye Ni - Live,Aparshakti Khurana,Hindi,Dance,2019,Energetic,134,0.7428500181981013
+S985,Nashe Si Chadh Gayi (Cover),Arijit Singh,Hindi,Dance,2015,Energetic,114,0.5231041278946412
+S986,Lagdi Lahore Di,Guru Randhawa,Hindi,Dance,2022,Energetic,103,0.5755631491120478
+S987,Tujhe Kitna Chahne Lage,Arijit Singh,Hindi,Romantic,2018,Neutral,132,0.5059700757457386
+S988,Watermelon Sugar (Remix),Harry Styles,English,Pop rock,2022,Energetic,140,0.7898551972570469
+S989,Memories,Maroon 5,English,Pop,2020,Energetic,87,0.6652420234254719
+S990,Dance Monkey (Remix),Tones and I,English,Dance-pop,2017,Energetic,115,0.8432288958582654
+S991,Ghungroo (Cover),"Arijit Singh, Shilpa Rao",Hindi,Dance,2020,Energetic,68,0.8200775024999742
+S992,rockstar - Live,Post Malone ft. 21 Savage,English,Hip-Hop,2015,Neutral,109,0.8560905048898902
+S993,Bekhayali (Remix),Sachet Tandon,Hindi,Sad,2020,Melancholy,102,0.8491825605293524
+S994,Dance Monkey,Tones and I,English,Dance-pop,2020,Energetic,139,0.5889668699368408
+S995,Sicko Mode,Travis Scott,English,Hip-Hop,2021,Neutral,116,0.802181483333437
+S996,Kudiye Ni 2.0,Aparshakti Khurana,Hindi,Dance,2019,Energetic,72,0.9461232292393866
+S997,"thank u, next - Acoustic",Ariana Grande,English,Pop,2018,Energetic,77,0.7793433072182051
+S998,Tera Ban Jaunga 2.0,"Tulsi Kumar, Akhil Sachdeva",Hindi,Romantic,2021,Neutral,116,0.5725629017609918
+S999,Prem Ratan Dhan Payo - Live,Palak Muchhal,Hindi,DanceRomantic,2013,Energetic,62,0.872554340489684
+S1000,Nain Na Jodeen,Arijit Singh,Hindi,Romantic,2017,Neutral,73,0.6286559747345786

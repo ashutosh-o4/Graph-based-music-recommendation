@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quadbeat - Music Recommendation</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Quadbeat</h1>
+            <p>Your Personal Music Companion</p>
+        </header>
+        
+        <div class="search-section">
+            <input type="text" id="searchInput" placeholder="Search for a song or artist...">
+            <button id="searchButton">Search</button>
+        </div>
+
+        <div class="mood-section">
+            <h2>Generate Playlist by Mood</h2>
+            <div class="mood-buttons">
+                <button class="mood-btn" data-mood="Energetic">Energetic</button>
+                <button class="mood-btn" data-mood="Neutral">Neutral</button>
+                <button class="mood-btn" data-mood="Melancholy">Melancholy</button>
+            </div>
+        </div>
+
+        <div class="results-section">
+            <h2>Recommendations</h2>
+            <div id="recommendationResults"></div>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html> 
