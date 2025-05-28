@@ -6,6 +6,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
+import java.util.ArrayList;
 
 @Service
 public class RecommendationService {
@@ -60,9 +61,10 @@ public class RecommendationService {
             System.out.println("Using seed song ID for mood " + originalSeedSongId + ": " + seedSongId);
         }
 
-        // Get the seed song's title
+        // Get the seed song's title and artist
         Song seedSong = graphBuilder.getSongById(seedSongId);
         String seedTitle = seedSong != null ? seedSong.getTitle() : null;
+        String seedArtist = seedSong != null ? seedSong.getArtist() : null;
 
         // Call the real recommend method from GraphBuilder
         List<String> recs = graphBuilder.recommend(
@@ -96,17 +98,40 @@ public class RecommendationService {
             );
         })
         .filter(dto -> dto != null)
-        // Filter out songs with similar titles (not just exact match)
+        // Filter out exact duplicates and very similar songs
         .filter(dto -> {
-            if (seedTitle == null) return true;
+            if (seedTitle == null || seedArtist == null) return true;
+            
+            // Normalize strings for comparison
             String recTitle = dto.getTitle().replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
-            String seedNorm = seedTitle.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
-            // Exclude if either title contains the other
-            return !recTitle.contains(seedNorm) && !seedNorm.contains(recTitle);
+            String recArtist = dto.getArtist().replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
+            String seedNormTitle = seedTitle.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
+            String seedNormArtist = seedArtist.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
+            
+            // Skip if it's the exact same song
+            if (recTitle.equals(seedNormTitle) && recArtist.equals(seedNormArtist)) {
+                return false;
+            }
+            
+            // Skip if it's a remix/cover of the same song
+            if ((recTitle.contains(seedNormTitle) || seedNormTitle.contains(recTitle)) &&
+                (recArtist.contains(seedNormArtist) || seedNormArtist.contains(recArtist))) {
+                return false;
+            }
+            
+            return true;
         })
-        .collect(Collectors.toList());
+        // Remove duplicates within recommendations
+        .collect(Collectors.collectingAndThen(
+            Collectors.toMap(
+                dto -> dto.getTitle().toLowerCase() + "|" + dto.getArtist().toLowerCase(),
+                dto -> dto,
+                (existing, replacement) -> existing.getScore() > replacement.getScore() ? existing : replacement
+            ),
+            map -> new ArrayList<>(map.values())
+        ));
         
-        System.out.println("Returning " + recommendations.size() + " recommendations (excluding same title)");
+        System.out.println("Returning " + recommendations.size() + " recommendations (excluding duplicates)");
         recommendations.forEach(rec -> 
             System.out.println("- " + rec.getTitle() + " by " + rec.getArtist() + " (Score: " + rec.getScore() + ")")
         );
